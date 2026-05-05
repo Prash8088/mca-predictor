@@ -1,0 +1,5954 @@
+[
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1779,
+    "avgClosingRank": 2001
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "SC (PwD)",
+    "safeRank": 9392,
+    "avgClosingRank": 9392
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 344,
+    "avgClosingRank": 441
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 540,
+    "avgClosingRank": 587
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 300,
+    "avgClosingRank": 344
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 452,
+    "avgClosingRank": 460
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 2956,
+    "avgClosingRank": 3155
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3071,
+    "avgClosingRank": 3071
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 300,
+    "avgClosingRank": 300
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2515,
+    "avgClosingRank": 3114
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 10590,
+    "avgClosingRank": 10590
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6652,
+    "avgClosingRank": 7071
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 347,
+    "avgClosingRank": 400
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 371,
+    "avgClosingRank": 448
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 3988,
+    "avgClosingRank": 5244
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "Gen-EWS (PwD)",
+    "safeRank": 10578,
+    "avgClosingRank": 10578
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 391,
+    "avgClosingRank": 484
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4700,
+    "avgClosingRank": 5060
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6123,
+    "avgClosingRank": 7107
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 7252,
+    "avgClosingRank": 7458
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 467,
+    "avgClosingRank": 569
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 6594,
+    "avgClosingRank": 6747
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 9385,
+    "avgClosingRank": 9385
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 712,
+    "avgClosingRank": 803
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 195,
+    "avgClosingRank": 370
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 3496,
+    "avgClosingRank": 3496
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 360,
+    "avgClosingRank": 464
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 135,
+    "avgClosingRank": 462
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 303,
+    "avgClosingRank": 397
+  },
+  {
+    "collegeId": "indian_institute_of_information_technology_bhopal",
+    "collegeName": "Indian Institute of Information Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 10392,
+    "avgClosingRank": 10392
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 352,
+    "avgClosingRank": 356
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6960,
+    "avgClosingRank": 6960
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1872,
+    "avgClosingRank": 3377
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "Gen-EWS (PwD)",
+    "safeRank": 3206,
+    "avgClosingRank": 3206
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 615,
+    "avgClosingRank": 675
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3856,
+    "avgClosingRank": 4748
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 328,
+    "avgClosingRank": 2268
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 579,
+    "avgClosingRank": 644
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 220,
+    "avgClosingRank": 344
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 635,
+    "avgClosingRank": 640
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 5614,
+    "avgClosingRank": 5614
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 549,
+    "avgClosingRank": 580
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 361,
+    "avgClosingRank": 493
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4071,
+    "avgClosingRank": 6519
+  },
+  {
+    "collegeId": "indian_institute_of_information_technology_bhopal",
+    "collegeName": "Indian Institute of Information Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 5166,
+    "avgClosingRank": 6197
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 167,
+    "avgClosingRank": 221
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 474,
+    "avgClosingRank": 593
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6406,
+    "avgClosingRank": 6406
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "SC (PwD)",
+    "safeRank": 9135,
+    "avgClosingRank": 9135
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 2943,
+    "avgClosingRank": 3872
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 5986,
+    "avgClosingRank": 5986
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2273,
+    "avgClosingRank": 2376
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 362,
+    "avgClosingRank": 472
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1742,
+    "avgClosingRank": 2150
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 217,
+    "avgClosingRank": 339
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 783,
+    "avgClosingRank": 797
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2737,
+    "avgClosingRank": 3484
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 519,
+    "avgClosingRank": 637
+  },
+  {
+    "collegeId": "indian_institute_of_information_technology_bhopal",
+    "collegeName": "Indian Institute of Information Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2830,
+    "avgClosingRank": 3268
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 663,
+    "avgClosingRank": 675
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 22,
+    "avgClosingRank": 92
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 5999,
+    "avgClosingRank": 6585
+  },
+  {
+    "collegeId": "indian_institute_of_information_technology_bhopal",
+    "collegeName": "Indian Institute of Information Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3709,
+    "avgClosingRank": 3709
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "SC (PwD)",
+    "safeRank": 1841,
+    "avgClosingRank": 1841
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 229,
+    "avgClosingRank": 1765
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 130,
+    "avgClosingRank": 159
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 583,
+    "avgClosingRank": 639
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 832,
+    "avgClosingRank": 1992
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 242,
+    "avgClosingRank": 242
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "Gen-EWS (PwD)",
+    "safeRank": 7352,
+    "avgClosingRank": 7352
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 570,
+    "avgClosingRank": 592
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 859,
+    "avgClosingRank": 876
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 537,
+    "avgClosingRank": 590
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 50,
+    "avgClosingRank": 74
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 115,
+    "avgClosingRank": 300
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 595,
+    "avgClosingRank": 736
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 2905,
+    "avgClosingRank": 5765
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 10392,
+    "avgClosingRank": 10392
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 1253,
+    "avgClosingRank": 1443
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1935,
+    "avgClosingRank": 2571
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 366,
+    "avgClosingRank": 477
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 348,
+    "avgClosingRank": 447
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 466,
+    "avgClosingRank": 486
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 3429,
+    "avgClosingRank": 3790
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 93,
+    "avgClosingRank": 116
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "Gen-EWS (PwD)",
+    "safeRank": 11205,
+    "avgClosingRank": 11205
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 1856,
+    "avgClosingRank": 2418
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4236,
+    "avgClosingRank": 6146
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 891,
+    "avgClosingRank": 908
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 562,
+    "avgClosingRank": 570
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 696,
+    "avgClosingRank": 769
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 3319,
+    "avgClosingRank": 3319
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 2644,
+    "avgClosingRank": 7075
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 223,
+    "avgClosingRank": 239
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 8338,
+    "avgClosingRank": 9415
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 223,
+    "avgClosingRank": 239
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 823,
+    "avgClosingRank": 823
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 25,
+    "avgClosingRank": 180
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 244,
+    "avgClosingRank": 302
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 30,
+    "avgClosingRank": 114
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 7296,
+    "avgClosingRank": 7296
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 481,
+    "avgClosingRank": 517
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "Gen-EWS (PwD)",
+    "safeRank": 8711,
+    "avgClosingRank": 8711
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 178,
+    "avgClosingRank": 178
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 349,
+    "avgClosingRank": 349
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 203,
+    "avgClosingRank": 292
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 2960,
+    "avgClosingRank": 5060
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1958,
+    "avgClosingRank": 2636
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "Gen-EWS (PwD)",
+    "safeRank": 11126,
+    "avgClosingRank": 11126
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 121,
+    "avgClosingRank": 218
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 801,
+    "avgClosingRank": 840
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 550,
+    "avgClosingRank": 583
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 50,
+    "avgClosingRank": 132
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1130,
+    "avgClosingRank": 1860
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3977,
+    "avgClosingRank": 4223
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 601,
+    "avgClosingRank": 604
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 386,
+    "avgClosingRank": 386
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1130,
+    "avgClosingRank": 2381
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 356,
+    "avgClosingRank": 412
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 11690,
+    "avgClosingRank": 11690
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6696,
+    "avgClosingRank": 7542
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 91,
+    "avgClosingRank": 970
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 9243,
+    "avgClosingRank": 11532
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 492,
+    "avgClosingRank": 671
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2841,
+    "avgClosingRank": 3527
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 230,
+    "avgClosingRank": 362
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6445,
+    "avgClosingRank": 7252
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2512,
+    "avgClosingRank": 2967
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3449,
+    "avgClosingRank": 3551
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 9046,
+    "avgClosingRank": 9046
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 832,
+    "avgClosingRank": 1987
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4071,
+    "avgClosingRank": 6519
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 7290,
+    "avgClosingRank": 7290
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 709,
+    "avgClosingRank": 804
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2409,
+    "avgClosingRank": 2636
+  },
+  {
+    "collegeId": "indian_institute_of_information_technology_bhopal",
+    "collegeName": "Indian Institute of Information Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 719,
+    "avgClosingRank": 878
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 115,
+    "avgClosingRank": 296
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 93,
+    "avgClosingRank": 116
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 8629,
+    "avgClosingRank": 8629
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 2306,
+    "avgClosingRank": 2976
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 5999,
+    "avgClosingRank": 6308
+  },
+  {
+    "collegeId": "indian_institute_of_information_technology_bhopal",
+    "collegeName": "Indian Institute of Information Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 7071,
+    "avgClosingRank": 7956
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 6029,
+    "avgClosingRank": 7245
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2737,
+    "avgClosingRank": 3365
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 202,
+    "avgClosingRank": 571
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 6410,
+    "avgClosingRank": 6410
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 606,
+    "avgClosingRank": 606
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 49,
+    "avgClosingRank": 245
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 11963,
+    "avgClosingRank": 12459
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 588,
+    "avgClosingRank": 655
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 11126,
+    "avgClosingRank": 11126
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4071,
+    "avgClosingRank": 6146
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 1,
+    "avgClosingRank": 47
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 12313,
+    "avgClosingRank": 12313
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 796,
+    "avgClosingRank": 2679
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1016,
+    "avgClosingRank": 1510
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 3825,
+    "avgClosingRank": 6252
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6250,
+    "avgClosingRank": 6683
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 316,
+    "avgClosingRank": 383
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 399,
+    "avgClosingRank": 399
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 6169,
+    "avgClosingRank": 9548
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 359,
+    "avgClosingRank": 572
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6123,
+    "avgClosingRank": 7512
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2644,
+    "avgClosingRank": 3330
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 350,
+    "avgClosingRank": 410
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 120,
+    "avgClosingRank": 239
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 315,
+    "avgClosingRank": 324
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 2644,
+    "avgClosingRank": 6308
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 9985,
+    "avgClosingRank": 9985
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 665,
+    "avgClosingRank": 680
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 9985,
+    "avgClosingRank": 9985
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 481,
+    "avgClosingRank": 517
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4107,
+    "avgClosingRank": 6429
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 1,
+    "avgClosingRank": 52
+  },
+  {
+    "collegeId": "indian_institute_of_information_technology_bhopal",
+    "collegeName": "Indian Institute of Information Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6429,
+    "avgClosingRank": 6458
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 9950,
+    "avgClosingRank": 9950
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 371,
+    "avgClosingRank": 509
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 547,
+    "avgClosingRank": 577
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 328,
+    "avgClosingRank": 2268
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6696,
+    "avgClosingRank": 7323
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 72,
+    "avgClosingRank": 181
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 574,
+    "avgClosingRank": 640
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6960,
+    "avgClosingRank": 7071
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 672,
+    "avgClosingRank": 686
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 26,
+    "avgClosingRank": 178
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 8853,
+    "avgClosingRank": 8853
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 5381,
+    "avgClosingRank": 5381
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 606,
+    "avgClosingRank": 671
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 230,
+    "avgClosingRank": 362
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 682,
+    "avgClosingRank": 2727
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4654,
+    "avgClosingRank": 4654
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 4457,
+    "avgClosingRank": 4457
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 3710,
+    "avgClosingRank": 5660
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "Gen-EWS (PwD)",
+    "safeRank": 10850,
+    "avgClosingRank": 10850
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "Gen-EWS (PwD)",
+    "safeRank": 10578,
+    "avgClosingRank": 10578
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 741,
+    "avgClosingRank": 757
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "Gen-EWS (PwD)",
+    "safeRank": 5834,
+    "avgClosingRank": 5834
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 796,
+    "avgClosingRank": 2652
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1130,
+    "avgClosingRank": 1860
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 601,
+    "avgClosingRank": 612
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2056,
+    "avgClosingRank": 2718
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 202,
+    "avgClosingRank": 563
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "Gen-EWS (PwD)",
+    "safeRank": 10578,
+    "avgClosingRank": 10578
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 516,
+    "avgClosingRank": 516
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 7469,
+    "avgClosingRank": 7991
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4329,
+    "avgClosingRank": 4649
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 3204,
+    "avgClosingRank": 4067
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 243,
+    "avgClosingRank": 243
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 6410,
+    "avgClosingRank": 6410
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 91,
+    "avgClosingRank": 970
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 7352,
+    "avgClosingRank": 7352
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 9352,
+    "avgClosingRank": 9352
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6585,
+    "avgClosingRank": 6845
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 252,
+    "avgClosingRank": 268
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 192,
+    "avgClosingRank": 313
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "Gen-EWS (PwD)",
+    "safeRank": 11801,
+    "avgClosingRank": 11801
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 10285,
+    "avgClosingRank": 10285
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2031,
+    "avgClosingRank": 3140
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 478,
+    "avgClosingRank": 607
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 180,
+    "avgClosingRank": 254
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2409,
+    "avgClosingRank": 2831
+  },
+  {
+    "collegeId": "indian_institute_of_information_technology_bhopal",
+    "collegeName": "Indian Institute of Information Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6836,
+    "avgClosingRank": 6836
+  },
+  {
+    "collegeId": "indian_institute_of_information_technology_bhopal",
+    "collegeName": "Indian Institute of Information Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 837,
+    "avgClosingRank": 954
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 4783,
+    "avgClosingRank": 6233
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 26,
+    "avgClosingRank": 177
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 712,
+    "avgClosingRank": 732
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 4157,
+    "avgClosingRank": 4157
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "Gen-EWS (PwD)",
+    "safeRank": 10850,
+    "avgClosingRank": 10850
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 572,
+    "avgClosingRank": 728
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 8115,
+    "avgClosingRank": 8115
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 316,
+    "avgClosingRank": 383
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 12836,
+    "avgClosingRank": 12836
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 760,
+    "avgClosingRank": 781
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4343,
+    "avgClosingRank": 5481
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2702,
+    "avgClosingRank": 2986
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 230,
+    "avgClosingRank": 447
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 216,
+    "avgClosingRank": 216
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 192,
+    "avgClosingRank": 315
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 72,
+    "avgClosingRank": 181
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1506,
+    "avgClosingRank": 3221
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 3687,
+    "avgClosingRank": 3687
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 407,
+    "avgClosingRank": 560
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 482,
+    "avgClosingRank": 604
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 850,
+    "avgClosingRank": 863
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 10285,
+    "avgClosingRank": 10285
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1251,
+    "avgClosingRank": 1251
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2653,
+    "avgClosingRank": 3042
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 1717,
+    "avgClosingRank": 1717
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 178,
+    "avgClosingRank": 212
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 296,
+    "avgClosingRank": 296
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 130,
+    "avgClosingRank": 159
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 3470,
+    "avgClosingRank": 3470
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "Gen-EWS (PwD)",
+    "safeRank": 3206,
+    "avgClosingRank": 3206
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "Gen-EWS (PwD)",
+    "safeRank": 10850,
+    "avgClosingRank": 10850
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 369,
+    "avgClosingRank": 568
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 187,
+    "avgClosingRank": 211
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4654,
+    "avgClosingRank": 5057
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 866,
+    "avgClosingRank": 870
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3682,
+    "avgClosingRank": 4250
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 3825,
+    "avgClosingRank": 3825
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 3530,
+    "avgClosingRank": 7488
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 1080,
+    "avgClosingRank": 2504
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 3056,
+    "avgClosingRank": 3056
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 877,
+    "avgClosingRank": 880
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 11963,
+    "avgClosingRank": 11963
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4520,
+    "avgClosingRank": 6022
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 7878,
+    "avgClosingRank": 8273
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 832,
+    "avgClosingRank": 2351
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1783,
+    "avgClosingRank": 1814
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 9628,
+    "avgClosingRank": 9628
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1935,
+    "avgClosingRank": 1935
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3414,
+    "avgClosingRank": 3493
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 10477,
+    "avgClosingRank": 10477
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3140,
+    "avgClosingRank": 3582
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 482,
+    "avgClosingRank": 604
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 878,
+    "avgClosingRank": 1814
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 517,
+    "avgClosingRank": 525
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 5256,
+    "avgClosingRank": 5634
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 9398,
+    "avgClosingRank": 9398
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 1,
+    "avgClosingRank": 48
+  },
+  {
+    "collegeId": "test_college",
+    "collegeName": "Test College",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 600,
+    "avgClosingRank": 800
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 570,
+    "avgClosingRank": 608
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 5060,
+    "avgClosingRank": 7093
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 61,
+    "avgClosingRank": 112
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 93,
+    "avgClosingRank": 116
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3648,
+    "avgClosingRank": 3856
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 4198,
+    "avgClosingRank": 4198
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 194,
+    "avgClosingRank": 347
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 328,
+    "avgClosingRank": 2445
+  },
+  {
+    "collegeId": "indian_institute_of_information_technology_bhopal",
+    "collegeName": "Indian Institute of Information Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 388,
+    "avgClosingRank": 578
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 3173,
+    "avgClosingRank": 4040
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 884,
+    "avgClosingRank": 896
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 651,
+    "avgClosingRank": 667
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 2695,
+    "avgClosingRank": 3036
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 353,
+    "avgClosingRank": 466
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 8338,
+    "avgClosingRank": 9415
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3449,
+    "avgClosingRank": 3605
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 374,
+    "avgClosingRank": 434
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 5256,
+    "avgClosingRank": 5968
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "Gen-EWS (PwD)",
+    "safeRank": 10850,
+    "avgClosingRank": 10850
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 10588,
+    "avgClosingRank": 10588
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 584,
+    "avgClosingRank": 591
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 121,
+    "avgClosingRank": 218
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 3687,
+    "avgClosingRank": 3687
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 355,
+    "avgClosingRank": 434
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 194,
+    "avgClosingRank": 347
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 628,
+    "avgClosingRank": 819
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4915,
+    "avgClosingRank": 5158
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1505,
+    "avgClosingRank": 1961
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 126,
+    "avgClosingRank": 126
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 9243,
+    "avgClosingRank": 11532
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 91,
+    "avgClosingRank": 970
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 834,
+    "avgClosingRank": 3056
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1275,
+    "avgClosingRank": 1424
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 203,
+    "avgClosingRank": 330
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 3992,
+    "avgClosingRank": 5449
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 597,
+    "avgClosingRank": 605
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 342,
+    "avgClosingRank": 342
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 947,
+    "avgClosingRank": 1678
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 3351,
+    "avgClosingRank": 6279
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 828,
+    "avgClosingRank": 828
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 473,
+    "avgClosingRank": 574
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 168,
+    "avgClosingRank": 168
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "Gen-EWS (PwD)",
+    "safeRank": 8711,
+    "avgClosingRank": 8711
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 3484,
+    "avgClosingRank": 3484
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 1080,
+    "avgClosingRank": 2870
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3582,
+    "avgClosingRank": 3618
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 167,
+    "avgClosingRank": 221
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 315,
+    "avgClosingRank": 417
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 348,
+    "avgClosingRank": 452
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 592,
+    "avgClosingRank": 603
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 879,
+    "avgClosingRank": 909
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 8338,
+    "avgClosingRank": 9415
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3040,
+    "avgClosingRank": 3303
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 423,
+    "avgClosingRank": 470
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 489,
+    "avgClosingRank": 546
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 834,
+    "avgClosingRank": 2658
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 7845,
+    "avgClosingRank": 7845
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 489,
+    "avgClosingRank": 546
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 875,
+    "avgClosingRank": 875
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 10285,
+    "avgClosingRank": 10285
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 220,
+    "avgClosingRank": 344
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4773,
+    "avgClosingRank": 6324
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 3530,
+    "avgClosingRank": 3790
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 7771,
+    "avgClosingRank": 7956
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 180,
+    "avgClosingRank": 254
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 1,
+    "avgClosingRank": 47
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4654,
+    "avgClosingRank": 4727
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 12313,
+    "avgClosingRank": 12313
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4553,
+    "avgClosingRank": 6579
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1275,
+    "avgClosingRank": 1895
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 796,
+    "avgClosingRank": 2679
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 545,
+    "avgClosingRank": 545
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 650,
+    "avgClosingRank": 655
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 13977,
+    "avgClosingRank": 13977
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4124,
+    "avgClosingRank": 5737
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "Gen-EWS (PwD)",
+    "safeRank": 5834,
+    "avgClosingRank": 5834
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 4783,
+    "avgClosingRank": 9398
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6123,
+    "avgClosingRank": 7095
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 832,
+    "avgClosingRank": 1992
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 5060,
+    "avgClosingRank": 6388
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 200,
+    "avgClosingRank": 462
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3913,
+    "avgClosingRank": 3915
+  },
+  {
+    "collegeId": "indian_institute_of_information_technology_bhopal",
+    "collegeName": "Indian Institute of Information Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3648,
+    "avgClosingRank": 4074
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 7193,
+    "avgClosingRank": 7235
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1016,
+    "avgClosingRank": 1510
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3330,
+    "avgClosingRank": 3901
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 608,
+    "avgClosingRank": 619
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 48,
+    "avgClosingRank": 156
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 9628,
+    "avgClosingRank": 9628
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 22,
+    "avgClosingRank": 92
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2418,
+    "avgClosingRank": 2636
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 119,
+    "avgClosingRank": 158
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 5804,
+    "avgClosingRank": 5811
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 8200,
+    "avgClosingRank": 8200
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 86,
+    "avgClosingRank": 86
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 356,
+    "avgClosingRank": 412
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3268,
+    "avgClosingRank": 3394
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 72,
+    "avgClosingRank": 180
+  },
+  {
+    "collegeId": "nit_trichy_nimcet",
+    "collegeName": "NIT Trichy",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 30,
+    "avgClosingRank": 45
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6986,
+    "avgClosingRank": 7756
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 339,
+    "avgClosingRank": 339
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 3204,
+    "avgClosingRank": 4584
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 470,
+    "avgClosingRank": 510
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "Gen-EWS (PwD)",
+    "safeRank": 13962,
+    "avgClosingRank": 13962
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 2306,
+    "avgClosingRank": 2976
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 564,
+    "avgClosingRank": 571
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2031,
+    "avgClosingRank": 3442
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3386,
+    "avgClosingRank": 3858
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 10285,
+    "avgClosingRank": 10285
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6429,
+    "avgClosingRank": 6429
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 482,
+    "avgClosingRank": 622
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 563,
+    "avgClosingRank": 647
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 686,
+    "avgClosingRank": 722
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 756,
+    "avgClosingRank": 782
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 119,
+    "avgClosingRank": 158
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 51,
+    "avgClosingRank": 105
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 665,
+    "avgClosingRank": 759
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 221,
+    "avgClosingRank": 355
+  },
+  {
+    "collegeId": "indian_institute_of_information_technology_bhopal",
+    "collegeName": "Indian Institute of Information Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 581,
+    "avgClosingRank": 593
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 278,
+    "avgClosingRank": 278
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 8338,
+    "avgClosingRank": 9415
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 606,
+    "avgClosingRank": 684
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 513,
+    "avgClosingRank": 636
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 3173,
+    "avgClosingRank": 4040
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 572,
+    "avgClosingRank": 604
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 353,
+    "avgClosingRank": 466
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 393,
+    "avgClosingRank": 1166
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 9985,
+    "avgClosingRank": 9985
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 11102,
+    "avgClosingRank": 11102
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 187,
+    "avgClosingRank": 214
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 2695,
+    "avgClosingRank": 3036
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 616,
+    "avgClosingRank": 640
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 473,
+    "avgClosingRank": 1816
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 5986,
+    "avgClosingRank": 5986
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 3173,
+    "avgClosingRank": 4040
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 451,
+    "avgClosingRank": 489
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 477,
+    "avgClosingRank": 535
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3860,
+    "avgClosingRank": 4150
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 10244,
+    "avgClosingRank": 10244
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 665,
+    "avgClosingRank": 672
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 149,
+    "avgClosingRank": 149
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6388,
+    "avgClosingRank": 6388
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4553,
+    "avgClosingRank": 6484
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 584,
+    "avgClosingRank": 625
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 5060,
+    "avgClosingRank": 5481
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2891,
+    "avgClosingRank": 3514
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 350,
+    "avgClosingRank": 419
+  },
+  {
+    "collegeId": "indian_institute_of_information_technology_bhopal",
+    "collegeName": "Indian Institute of Information Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 716,
+    "avgClosingRank": 716
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 282,
+    "avgClosingRank": 509
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 220,
+    "avgClosingRank": 344
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 355,
+    "avgClosingRank": 434
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 3710,
+    "avgClosingRank": 5660
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 735,
+    "avgClosingRank": 846
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 366,
+    "avgClosingRank": 477
+  },
+  {
+    "collegeId": "asms_pune",
+    "collegeName": "ASMS Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "AI",
+    "safeRank": 8450,
+    "avgClosingRank": 8500
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4553,
+    "avgClosingRank": 6579
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "SC (PwD)",
+    "safeRank": 11619,
+    "avgClosingRank": 11619
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 829,
+    "avgClosingRank": 858
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 3825,
+    "avgClosingRank": 6252
+  },
+  {
+    "collegeId": "nit_warangal_nimcet",
+    "collegeName": "NIT Warangal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 60,
+    "avgClosingRank": 100
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 4644,
+    "avgClosingRank": 10019
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2823,
+    "avgClosingRank": 3301
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 224,
+    "avgClosingRank": 978
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 1080,
+    "avgClosingRank": 2504
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3941,
+    "avgClosingRank": 3941
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 830,
+    "avgClosingRank": 830
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3166,
+    "avgClosingRank": 3391
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 735,
+    "avgClosingRank": 738
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 6029,
+    "avgClosingRank": 7245
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 22,
+    "avgClosingRank": 92
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3140,
+    "avgClosingRank": 3538
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6473,
+    "avgClosingRank": 7172
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 4234,
+    "avgClosingRank": 4242
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 200,
+    "avgClosingRank": 448
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 135,
+    "avgClosingRank": 172
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 5481,
+    "avgClosingRank": 5481
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 3056,
+    "avgClosingRank": 3496
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4107,
+    "avgClosingRank": 5717
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 4457,
+    "avgClosingRank": 4457
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 796,
+    "avgClosingRank": 2891
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 314,
+    "avgClosingRank": 347
+  },
+  {
+    "collegeId": "dnyanopasak",
+    "collegeName": "Dnyanopasak",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 14950,
+    "avgClosingRank": 15000
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 5642,
+    "avgClosingRank": 5642
+  },
+  {
+    "collegeId": "dy_patil_chikh",
+    "collegeName": "DY Patil Chikh",
+    "exam": "MAH-MCA-CET",
+    "category": "AI",
+    "safeRank": 9450,
+    "avgClosingRank": 9500
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 371,
+    "avgClosingRank": 373
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4236,
+    "avgClosingRank": 6683
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6696,
+    "avgClosingRank": 7323
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 182,
+    "avgClosingRank": 221
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 356,
+    "avgClosingRank": 405
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 8708,
+    "avgClosingRank": 9153
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 11126,
+    "avgClosingRank": 11126
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 7285,
+    "avgClosingRank": 7285
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 10588,
+    "avgClosingRank": 10588
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3166,
+    "avgClosingRank": 3327
+  },
+  {
+    "collegeId": "indian_institute_of_information_technology_bhopal",
+    "collegeName": "Indian Institute of Information Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 593,
+    "avgClosingRank": 696
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 757,
+    "avgClosingRank": 825
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 198,
+    "avgClosingRank": 291
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 2295,
+    "avgClosingRank": 6252
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 435,
+    "avgClosingRank": 451
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 783,
+    "avgClosingRank": 849
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6473,
+    "avgClosingRank": 7172
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 6738,
+    "avgClosingRank": 7296
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 460,
+    "avgClosingRank": 496
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "Gen-EWS (PwD)",
+    "safeRank": 10057,
+    "avgClosingRank": 10057
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 362,
+    "avgClosingRank": 362
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 849,
+    "avgClosingRank": 939
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 493,
+    "avgClosingRank": 510
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 435,
+    "avgClosingRank": 436
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 415,
+    "avgClosingRank": 419
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 445,
+    "avgClosingRank": 522
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 50,
+    "avgClosingRank": 74
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 8115,
+    "avgClosingRank": 8115
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2737,
+    "avgClosingRank": 3486
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 10477,
+    "avgClosingRank": 10477
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 6738,
+    "avgClosingRank": 9046
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 50,
+    "avgClosingRank": 74
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 251,
+    "avgClosingRank": 2016
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1992,
+    "avgClosingRank": 2372
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 5765,
+    "avgClosingRank": 8108
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2056,
+    "avgClosingRank": 2644
+  },
+  {
+    "collegeId": "gce_aurangaba",
+    "collegeName": "GCE Aurangaba",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 2950,
+    "avgClosingRank": 3000
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 578,
+    "avgClosingRank": 635
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "SC (PwD)",
+    "safeRank": 9135,
+    "avgClosingRank": 9135
+  },
+  {
+    "collegeId": "godavari_inst",
+    "collegeName": "Godavari Inst",
+    "exam": "MAH-MCA-CET",
+    "category": "AI",
+    "safeRank": 24950,
+    "avgClosingRank": 25000
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 167,
+    "avgClosingRank": 216
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 374,
+    "avgClosingRank": 382
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6197,
+    "avgClosingRank": 6429
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4304,
+    "avgClosingRank": 5381
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 452,
+    "avgClosingRank": 711
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 639,
+    "avgClosingRank": 692
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4553,
+    "avgClosingRank": 6579
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3216,
+    "avgClosingRank": 3514
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2659,
+    "avgClosingRank": 3113
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 481,
+    "avgClosingRank": 712
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 638,
+    "avgClosingRank": 638
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 618,
+    "avgClosingRank": 618
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3556,
+    "avgClosingRank": 3871
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6250,
+    "avgClosingRank": 6683
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "SC (PwD)",
+    "safeRank": 9135,
+    "avgClosingRank": 9135
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 121,
+    "avgClosingRank": 218
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 1080,
+    "avgClosingRank": 2504
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 118,
+    "avgClosingRank": 995
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 48,
+    "avgClosingRank": 156
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 10244,
+    "avgClosingRank": 10244
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2480,
+    "avgClosingRank": 3394
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 53,
+    "avgClosingRank": 126
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3303,
+    "avgClosingRank": 3303
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 192,
+    "avgClosingRank": 315
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 91,
+    "avgClosingRank": 1263
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 2870,
+    "avgClosingRank": 3454
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2891,
+    "avgClosingRank": 3378
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 3155,
+    "avgClosingRank": 3155
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 10588,
+    "avgClosingRank": 10588
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 7469,
+    "avgClosingRank": 7929
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 2870,
+    "avgClosingRank": 3454
+  },
+  {
+    "collegeId": "jay_bhavani",
+    "collegeName": "Jay Bhavani",
+    "exam": "MAH-MCA-CET",
+    "category": "AI",
+    "safeRank": 19950,
+    "avgClosingRank": 20000
+  },
+  {
+    "collegeId": "jdcoem_nagpu",
+    "collegeName": "JDCOEM Nagpu",
+    "exam": "MAH-MCA-CET",
+    "category": "TFWS",
+    "safeRank": 8950,
+    "avgClosingRank": 9000
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 7352,
+    "avgClosingRank": 7352
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2056,
+    "avgClosingRank": 2644
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 616,
+    "avgClosingRank": 619
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 7352,
+    "avgClosingRank": 7352
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 451,
+    "avgClosingRank": 489
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 185,
+    "avgClosingRank": 257
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 7290,
+    "avgClosingRank": 7290
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 223,
+    "avgClosingRank": 239
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 1856,
+    "avgClosingRank": 2942
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1016,
+    "avgClosingRank": 1510
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 363,
+    "avgClosingRank": 479
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 9270,
+    "avgClosingRank": 9270
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 4157,
+    "avgClosingRank": 4663
+  },
+  {
+    "collegeId": "kamla_nehru",
+    "collegeName": "Kamla Nehru",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 9450,
+    "avgClosingRank": 9500
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 3988,
+    "avgClosingRank": 5811
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 179,
+    "avgClosingRank": 216
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 1730,
+    "avgClosingRank": 1730
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 456,
+    "avgClosingRank": 456
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4179,
+    "avgClosingRank": 4584
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 1,
+    "avgClosingRank": 48
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 11126,
+    "avgClosingRank": 11126
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 13977,
+    "avgClosingRank": 13977
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 2870,
+    "avgClosingRank": 3454
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 543,
+    "avgClosingRank": 549
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1272,
+    "avgClosingRank": 2244
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 200,
+    "avgClosingRank": 462
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 8082,
+    "avgClosingRank": 8082
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 606,
+    "avgClosingRank": 671
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 292,
+    "avgClosingRank": 523
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 3173,
+    "avgClosingRank": 4040
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 6594,
+    "avgClosingRank": 6747
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2659,
+    "avgClosingRank": 3113
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1958,
+    "avgClosingRank": 2386
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3556,
+    "avgClosingRank": 3860
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3409,
+    "avgClosingRank": 3512
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 6410,
+    "avgClosingRank": 6410
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 579,
+    "avgClosingRank": 624
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 369,
+    "avgClosingRank": 548
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6836,
+    "avgClosingRank": 6836
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4236,
+    "avgClosingRank": 6146
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 363,
+    "avgClosingRank": 465
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 240,
+    "avgClosingRank": 240
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 580,
+    "avgClosingRank": 663
+  },
+  {
+    "collegeId": "m_s__bidve_latur",
+    "collegeName": "M.S. Bidve Latur",
+    "exam": "MAH-MCA-CET",
+    "category": "OBC",
+    "safeRank": 10950,
+    "avgClosingRank": 11000
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 601,
+    "avgClosingRank": 727
+  },
+  {
+    "collegeId": "met_mumbai",
+    "collegeName": "MET Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "EWS",
+    "safeRank": 4450,
+    "avgClosingRank": 4500
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 426,
+    "avgClosingRank": 443
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 167,
+    "avgClosingRank": 221
+  },
+  {
+    "collegeId": "modern_coe",
+    "collegeName": "Modern COE",
+    "exam": "MAH-MCA-CET",
+    "category": "OBC",
+    "safeRank": 3950,
+    "avgClosingRank": 4000
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 470,
+    "avgClosingRank": 510
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 324,
+    "avgClosingRank": 466
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 881,
+    "avgClosingRank": 935
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4161,
+    "avgClosingRank": 6406
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 1,
+    "avgClosingRank": 47
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1016,
+    "avgClosingRank": 1715
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 5979,
+    "avgClosingRank": 5979
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 393,
+    "avgClosingRank": 1166
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 316,
+    "avgClosingRank": 383
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 7296,
+    "avgClosingRank": 7296
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3226,
+    "avgClosingRank": 3512
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 5642,
+    "avgClosingRank": 6000
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 649,
+    "avgClosingRank": 661
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1768,
+    "avgClosingRank": 2034
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 672,
+    "avgClosingRank": 686
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 6029,
+    "avgClosingRank": 7245
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 487,
+    "avgClosingRank": 544
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "Gen-EWS (PwD)",
+    "safeRank": 11205,
+    "avgClosingRank": 11205
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 822,
+    "avgClosingRank": 824
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 3319,
+    "avgClosingRank": 3319
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2689,
+    "avgClosingRank": 2930
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 246,
+    "avgClosingRank": 268
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2609,
+    "avgClosingRank": 2660
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6250,
+    "avgClosingRank": 7862
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 369,
+    "avgClosingRank": 568
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 562,
+    "avgClosingRank": 569
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1130,
+    "avgClosingRank": 1843
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 8045,
+    "avgClosingRank": 9985
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 1,
+    "avgClosingRank": 48
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 154,
+    "avgClosingRank": 1193
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "SC (PwD)",
+    "safeRank": 1841,
+    "avgClosingRank": 1841
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 121,
+    "avgClosingRank": 215
+  },
+  {
+    "collegeId": "indian_institute_of_information_technology_bhopal",
+    "collegeName": "Indian Institute of Information Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 590,
+    "avgClosingRank": 713
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 849,
+    "avgClosingRank": 871
+  },
+  {
+    "collegeId": "indian_institute_of_information_technology_bhopal",
+    "collegeName": "Indian Institute of Information Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3304,
+    "avgClosingRank": 3659
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 4071,
+    "avgClosingRank": 6519
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 7285,
+    "avgClosingRank": 7469
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 93,
+    "avgClosingRank": 116
+  },
+  {
+    "collegeId": "pccoe_pune",
+    "collegeName": "PCCOE Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 1950,
+    "avgClosingRank": 2000
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 566,
+    "avgClosingRank": 632
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3737,
+    "avgClosingRank": 3856
+  },
+  {
+    "collegeId": "pict_pune",
+    "collegeName": "PICT Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 2950,
+    "avgClosingRank": 3000
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "SC (PwD)",
+    "safeRank": 9392,
+    "avgClosingRank": 9392
+  },
+  {
+    "collegeId": "prmitr_amrav",
+    "collegeName": "PRMITR Amrav",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 8450,
+    "avgClosingRank": 8500
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 3877,
+    "avgClosingRank": 4649
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 481,
+    "avgClosingRank": 712
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 813,
+    "avgClosingRank": 826
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2891,
+    "avgClosingRank": 3486
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 116,
+    "avgClosingRank": 136
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 181,
+    "avgClosingRank": 181
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 296,
+    "avgClosingRank": 341
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 536,
+    "avgClosingRank": 557
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 571,
+    "avgClosingRank": 596
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 12459,
+    "avgClosingRank": 12459
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 224,
+    "avgClosingRank": 978
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 3687,
+    "avgClosingRank": 3687
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 450,
+    "avgClosingRank": 452
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 489,
+    "avgClosingRank": 546
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 72,
+    "avgClosingRank": 181
+  },
+  {
+    "collegeId": "rsce_pune",
+    "collegeName": "RSCE Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 3550,
+    "avgClosingRank": 3600
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 158,
+    "avgClosingRank": 297
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 473,
+    "avgClosingRank": 549
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 252,
+    "avgClosingRank": 268
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2109,
+    "avgClosingRank": 2375
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 7898,
+    "avgClosingRank": 7898
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 8309,
+    "avgClosingRank": 9104
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 9243,
+    "avgClosingRank": 11532
+  },
+  {
+    "collegeId": "sies_mumbai",
+    "collegeName": "SIES Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "Tamil Min",
+    "safeRank": 9450,
+    "avgClosingRank": 9500
+  },
+  {
+    "collegeId": "spit_mumbai",
+    "collegeName": "SPIT Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "SC",
+    "safeRank": 1150,
+    "avgClosingRank": 1200
+  },
+  {
+    "collegeId": "sppu__pucsd_",
+    "collegeName": "SPPU (PUCSD)",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 470,
+    "avgClosingRank": 520
+  },
+  {
+    "collegeId": "sppu_pune",
+    "collegeName": "SPPU Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 530,
+    "avgClosingRank": 580
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 297,
+    "avgClosingRank": 329
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1044,
+    "avgClosingRank": 2521
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 6029,
+    "avgClosingRank": 7245
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 363,
+    "avgClosingRank": 479
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 467,
+    "avgClosingRank": 560
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 302,
+    "avgClosingRank": 460
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 50,
+    "avgClosingRank": 132
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 451,
+    "avgClosingRank": 500
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 5614,
+    "avgClosingRank": 5614
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2835,
+    "avgClosingRank": 2967
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 187,
+    "avgClosingRank": 214
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 50,
+    "avgClosingRank": 86
+  },
+  {
+    "collegeId": "thakur_inst",
+    "collegeName": "Thakur Inst",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 1150,
+    "avgClosingRank": 1200
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 399,
+    "avgClosingRank": 515
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 723,
+    "avgClosingRank": 812
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 3877,
+    "avgClosingRank": 4085
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 7851,
+    "avgClosingRank": 8858
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 9385,
+    "avgClosingRank": 9385
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6960,
+    "avgClosingRank": 7131
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 22,
+    "avgClosingRank": 92
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 192,
+    "avgClosingRank": 315
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1272,
+    "avgClosingRank": 2376
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 6410,
+    "avgClosingRank": 6410
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 1558,
+    "avgClosingRank": 3271
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 3825,
+    "avgClosingRank": 6252
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 839,
+    "avgClosingRank": 852
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "SC (PwD)",
+    "safeRank": 9135,
+    "avgClosingRank": 9135
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 3681,
+    "avgClosingRank": 8477
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 223,
+    "avgClosingRank": 239
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1978,
+    "avgClosingRank": 2001
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 356,
+    "avgClosingRank": 412
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 133,
+    "avgClosingRank": 238
+  },
+  {
+    "collegeId": "vbmv_amravati",
+    "collegeName": "VBMV Amravati",
+    "exam": "MAH-MCA-CET",
+    "category": "OBC",
+    "safeRank": 10450,
+    "avgClosingRank": 10500
+  },
+  {
+    "collegeId": "vesit_mumbai",
+    "collegeName": "VESIT Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "TFWS",
+    "safeRank": 400,
+    "avgClosingRank": 450
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3659,
+    "avgClosingRank": 4811
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 529,
+    "avgClosingRank": 610
+  },
+  {
+    "collegeId": "vjti_mumbai",
+    "collegeName": "VJTI Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "PwD",
+    "safeRank": 2150,
+    "avgClosingRank": 2200
+  },
+  {
+    "collegeId": "vp_it_baramati",
+    "collegeName": "VP IT Baramati",
+    "exam": "MAH-MCA-CET",
+    "category": "AI",
+    "safeRank": 7950,
+    "avgClosingRank": 8000
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 9243,
+    "avgClosingRank": 11532
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 478,
+    "avgClosingRank": 588
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 203,
+    "avgClosingRank": 292
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3306,
+    "avgClosingRank": 3306
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 53,
+    "avgClosingRank": 117
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 632,
+    "avgClosingRank": 638
+  },
+  {
+    "collegeId": "maulana_azad_national_institute_of_technology_bhopal",
+    "collegeName": "Maulana Azad National Institute of Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6056,
+    "avgClosingRank": 6056
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 450,
+    "avgClosingRank": 537
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6250,
+    "avgClosingRank": 6683
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 1717,
+    "avgClosingRank": 1717
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 328,
+    "avgClosingRank": 2268
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 9046,
+    "avgClosingRank": 9046
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 305,
+    "avgClosingRank": 367
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 8115,
+    "avgClosingRank": 8115
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 487,
+    "avgClosingRank": 544
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 242,
+    "avgClosingRank": 294
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 2007,
+    "avgClosingRank": 2447
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 187,
+    "avgClosingRank": 214
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 10185,
+    "avgClosingRank": 10810
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 2580,
+    "avgClosingRank": 4891
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 244,
+    "avgClosingRank": 302
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 579,
+    "avgClosingRank": 629
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra__self_financing_",
+    "collegeName": "National Institute of Technology, Kurukshetra (Self-Financing)",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3216,
+    "avgClosingRank": 3556
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 54,
+    "avgClosingRank": 130
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 329,
+    "avgClosingRank": 465
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 337,
+    "avgClosingRank": 356
+  },
+  {
+    "collegeId": "national_institute_of_technology_karnataka__surathkal",
+    "collegeName": "National Institute of Technology Karnataka, Surathkal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 51,
+    "avgClosingRank": 105
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "Open (PwD)",
+    "safeRank": 8115,
+    "avgClosingRank": 8115
+  },
+  {
+    "collegeId": "indian_institute_of_information_technology_bhopal",
+    "collegeName": "Indian Institute of Information Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 710,
+    "avgClosingRank": 710
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3047,
+    "avgClosingRank": 3319
+  },
+  {
+    "collegeId": "national_institute_of_technology_raipur",
+    "collegeName": "National Institute of Technology Raipur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 3062,
+    "avgClosingRank": 3797
+  },
+  {
+    "collegeId": "national_institute_of_technology__warangal",
+    "collegeName": "National Institute of Technology, Warangal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 120,
+    "avgClosingRank": 240
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 627,
+    "avgClosingRank": 628
+  },
+  {
+    "collegeId": "indian_institute_of_information_technology_bhopal",
+    "collegeName": "Indian Institute of Information Technology Bhopal",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 572,
+    "avgClosingRank": 684
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 528,
+    "avgClosingRank": 529
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 6056,
+    "avgClosingRank": 6389
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 641,
+    "avgClosingRank": 655
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 203,
+    "avgClosingRank": 292
+  },
+  {
+    "collegeId": "national_institute_of_technology_agartala",
+    "collegeName": "National Institute of Technology Agartala",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 635,
+    "avgClosingRank": 646
+  },
+  {
+    "collegeId": "national_institute_of_technology__kurukshetra",
+    "collegeName": "National Institute of Technology, Kurukshetra",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 315,
+    "avgClosingRank": 417
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "ST",
+    "safeRank": 3160,
+    "avgClosingRank": 6308
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "OBC",
+    "safeRank": 48,
+    "avgClosingRank": 156
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "General",
+    "safeRank": 324,
+    "avgClosingRank": 466
+  },
+  {
+    "collegeId": "national_institute_of_technology_patna",
+    "collegeName": "National Institute of Technology Patna",
+    "exam": "NIMCET",
+    "category": "EWS",
+    "safeRank": 738,
+    "avgClosingRank": 828
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 10477,
+    "avgClosingRank": 10477
+  },
+  {
+    "collegeId": "national_institute_of_technology__jamshedpur",
+    "collegeName": "National Institute of Technology, Jamshedpur",
+    "exam": "NIMCET",
+    "category": "SC",
+    "safeRank": 1762,
+    "avgClosingRank": 2930
+  },
+  {
+    "collegeId": "national_institute_of_technology__tiruchirappalli",
+    "collegeName": "National Institute of Technology, Tiruchirappalli",
+    "exam": "NIMCET",
+    "category": "OBC-NCL (PwD)",
+    "safeRank": 5449,
+    "avgClosingRank": 5614
+  },
+  {
+    "collegeId": "motilal_nehru_national_institute_of_technology_allahabad",
+    "collegeName": "Motilal Nehru National Institute of Technology Allahabad",
+    "exam": "NIMCET",
+    "category": "Gen-EWS (PwD)",
+    "safeRank": 11801,
+    "avgClosingRank": 11801
+  }
+]

@@ -1,0 +1,610 @@
+[
+  {
+    "collegeId": "vjti_mumbai",
+    "collegeName": "VJTI Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 45,
+    "avgClosingRank": 95
+  },
+  {
+    "collegeId": "vjti_mumbai",
+    "collegeName": "VJTI Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "OBC",
+    "safeRank": 130,
+    "avgClosingRank": 180
+  },
+  {
+    "collegeId": "vjti_mumbai",
+    "collegeName": "VJTI Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "SC",
+    "safeRank": 200,
+    "avgClosingRank": 250
+  },
+  {
+    "collegeId": "vjti_mumbai",
+    "collegeName": "VJTI Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "EWS",
+    "safeRank": 55,
+    "avgClosingRank": 105
+  },
+  {
+    "collegeId": "vjti_mumbai",
+    "collegeName": "VJTI Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 65,
+    "avgClosingRank": 115
+  },
+  {
+    "collegeId": "vjti_mumbai",
+    "collegeName": "VJTI Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 80,
+    "avgClosingRank": 130
+  },
+  {
+    "collegeId": "vjti_mumbai",
+    "collegeName": "VJTI Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 50,
+    "avgClosingRank": 100
+  },
+  {
+    "collegeId": "vjti_mumbai",
+    "collegeName": "VJTI Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 110,
+    "avgClosingRank": 160
+  },
+  {
+    "collegeId": "spit_mumbai",
+    "collegeName": "SPIT Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 270,
+    "avgClosingRank": 320
+  },
+  {
+    "collegeId": "spit_mumbai",
+    "collegeName": "SPIT Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "OBC",
+    "safeRank": 400,
+    "avgClosingRank": 450
+  },
+  {
+    "collegeId": "spit_mumbai",
+    "collegeName": "SPIT Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 300,
+    "avgClosingRank": 350
+  },
+  {
+    "collegeId": "spit_mumbai",
+    "collegeName": "SPIT Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 330,
+    "avgClosingRank": 380
+  },
+  {
+    "collegeId": "spit_mumbai",
+    "collegeName": "SPIT Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 400,
+    "avgClosingRank": 450
+  },
+  {
+    "collegeId": "sppu__pucsd_",
+    "collegeName": "SPPU (PUCSD)",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 360,
+    "avgClosingRank": 410
+  },
+  {
+    "collegeId": "sppu__pucsd_",
+    "collegeName": "SPPU (PUCSD)",
+    "exam": "MAH-MCA-CET",
+    "category": "OBC",
+    "safeRank": 600,
+    "avgClosingRank": 650
+  },
+  {
+    "collegeId": "sppu__pucsd_",
+    "collegeName": "SPPU (PUCSD)",
+    "exam": "MAH-MCA-CET",
+    "category": "EWS",
+    "safeRank": 430,
+    "avgClosingRank": 480
+  },
+  {
+    "collegeId": "sppu__pucsd_",
+    "collegeName": "SPPU (PUCSD)",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 470,
+    "avgClosingRank": 520
+  },
+  {
+    "collegeId": "vesit_mumbai",
+    "collegeName": "VESIT Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 900,
+    "avgClosingRank": 950
+  },
+  {
+    "collegeId": "vesit_mumbai",
+    "collegeName": "VESIT Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "Minority",
+    "safeRank": 4450,
+    "avgClosingRank": 4500
+  },
+  {
+    "collegeId": "vesit_mumbai",
+    "collegeName": "VESIT Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 1050,
+    "avgClosingRank": 1100
+  },
+  {
+    "collegeId": "pccoe_pune",
+    "collegeName": "PCCOE Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 1400,
+    "avgClosingRank": 1450
+  },
+  {
+    "collegeId": "pccoe_pune",
+    "collegeName": "PCCOE Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "OBC",
+    "safeRank": 2150,
+    "avgClosingRank": 2200
+  },
+  {
+    "collegeId": "pccoe_pune",
+    "collegeName": "PCCOE Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 3150,
+    "avgClosingRank": 3200
+  },
+  {
+    "collegeId": "sies_mumbai",
+    "collegeName": "SIES Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 1250,
+    "avgClosingRank": 1300
+  },
+  {
+    "collegeId": "sies_mumbai",
+    "collegeName": "SIES Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 1050,
+    "avgClosingRank": 1100
+  },
+  {
+    "collegeId": "sies_mumbai",
+    "collegeName": "SIES Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 400,
+    "avgClosingRank": 450
+  },
+  {
+    "collegeId": "prmitr_amrav",
+    "collegeName": "PRMITR Amrav",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 5450,
+    "avgClosingRank": 5500
+  },
+  {
+    "collegeId": "prmitr_amrav",
+    "collegeName": "PRMITR Amrav",
+    "exam": "MAH-MCA-CET",
+    "category": "AI",
+    "safeRank": 4750,
+    "avgClosingRank": 4800
+  },
+  {
+    "collegeId": "prmitr_amrav",
+    "collegeName": "PRMITR Amrav",
+    "exam": "MAH-MCA-CET",
+    "category": "EWS",
+    "safeRank": 5950,
+    "avgClosingRank": 6000
+  },
+  {
+    "collegeId": "prmitr_amrav",
+    "collegeName": "PRMITR Amrav",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 8450,
+    "avgClosingRank": 8500
+  },
+  {
+    "collegeId": "gce_aurangaba",
+    "collegeName": "GCE Aurangaba",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 2450,
+    "avgClosingRank": 2500
+  },
+  {
+    "collegeId": "gce_aurangaba",
+    "collegeName": "GCE Aurangaba",
+    "exam": "MAH-MCA-CET",
+    "category": "OBC",
+    "safeRank": 3050,
+    "avgClosingRank": 3100
+  },
+  {
+    "collegeId": "m_s__bidve_latur",
+    "collegeName": "M.S. Bidve Latur",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 6950,
+    "avgClosingRank": 7000
+  },
+  {
+    "collegeId": "m_s__bidve_latur",
+    "collegeName": "M.S. Bidve Latur",
+    "exam": "MAH-MCA-CET",
+    "category": "OBC",
+    "safeRank": 10950,
+    "avgClosingRank": 11000
+  },
+  {
+    "collegeId": "jdcoem_nagpu",
+    "collegeName": "JDCOEM Nagpu",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 11950,
+    "avgClosingRank": 12000
+  },
+  {
+    "collegeId": "jdcoem_nagpu",
+    "collegeName": "JDCOEM Nagpu",
+    "exam": "MAH-MCA-CET",
+    "category": "TFWS",
+    "safeRank": 8950,
+    "avgClosingRank": 9000
+  },
+  {
+    "collegeId": "vjti_mumbai",
+    "collegeName": "VJTI Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "ST",
+    "safeRank": 1800,
+    "avgClosingRank": 1850
+  },
+  {
+    "collegeId": "vjti_mumbai",
+    "collegeName": "VJTI Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "NT-D",
+    "safeRank": 400,
+    "avgClosingRank": 450
+  },
+  {
+    "collegeId": "vjti_mumbai",
+    "collegeName": "VJTI Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "PwD",
+    "safeRank": 2150,
+    "avgClosingRank": 2200
+  },
+  {
+    "collegeId": "spit_mumbai",
+    "collegeName": "SPIT Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "EWS",
+    "safeRank": 600,
+    "avgClosingRank": 650
+  },
+  {
+    "collegeId": "spit_mumbai",
+    "collegeName": "SPIT Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "SC",
+    "safeRank": 1150,
+    "avgClosingRank": 1200
+  },
+  {
+    "collegeId": "vesit_mumbai",
+    "collegeName": "VESIT Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "OBC",
+    "safeRank": 2350,
+    "avgClosingRank": 2400
+  },
+  {
+    "collegeId": "vesit_mumbai",
+    "collegeName": "VESIT Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "TFWS",
+    "safeRank": 400,
+    "avgClosingRank": 450
+  },
+  {
+    "collegeId": "sppu_pune",
+    "collegeName": "SPPU Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "ST",
+    "safeRank": 8450,
+    "avgClosingRank": 8500
+  },
+  {
+    "collegeId": "sppu_pune",
+    "collegeName": "SPPU Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 400,
+    "avgClosingRank": 450
+  },
+  {
+    "collegeId": "sppu_pune",
+    "collegeName": "SPPU Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 450,
+    "avgClosingRank": 500
+  },
+  {
+    "collegeId": "sppu_pune",
+    "collegeName": "SPPU Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 530,
+    "avgClosingRank": 580
+  },
+  {
+    "collegeId": "pccoe_pune",
+    "collegeName": "PCCOE Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "EWS",
+    "safeRank": 2450,
+    "avgClosingRank": 2500
+  },
+  {
+    "collegeId": "pccoe_pune",
+    "collegeName": "PCCOE Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 1550,
+    "avgClosingRank": 1600
+  },
+  {
+    "collegeId": "pccoe_pune",
+    "collegeName": "PCCOE Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 1750,
+    "avgClosingRank": 1800
+  },
+  {
+    "collegeId": "pccoe_pune",
+    "collegeName": "PCCOE Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 1950,
+    "avgClosingRank": 2000
+  },
+  {
+    "collegeId": "pict_pune",
+    "collegeName": "PICT Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 1850,
+    "avgClosingRank": 1900
+  },
+  {
+    "collegeId": "pict_pune",
+    "collegeName": "PICT Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 2050,
+    "avgClosingRank": 2100
+  },
+  {
+    "collegeId": "pict_pune",
+    "collegeName": "PICT Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 2250,
+    "avgClosingRank": 2300
+  },
+  {
+    "collegeId": "pict_pune",
+    "collegeName": "PICT Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 2550,
+    "avgClosingRank": 2600
+  },
+  {
+    "collegeId": "pict_pune",
+    "collegeName": "PICT Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 2950,
+    "avgClosingRank": 3000
+  },
+  {
+    "collegeId": "met_mumbai",
+    "collegeName": "MET Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 3350,
+    "avgClosingRank": 3400
+  },
+  {
+    "collegeId": "met_mumbai",
+    "collegeName": "MET Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "OBC",
+    "safeRank": 4150,
+    "avgClosingRank": 4200
+  },
+  {
+    "collegeId": "met_mumbai",
+    "collegeName": "MET Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "EWS",
+    "safeRank": 4450,
+    "avgClosingRank": 4500
+  },
+  {
+    "collegeId": "thakur_inst",
+    "collegeName": "Thakur Inst",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 3750,
+    "avgClosingRank": 3800
+  },
+  {
+    "collegeId": "thakur_inst",
+    "collegeName": "Thakur Inst",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 2750,
+    "avgClosingRank": 2800
+  },
+  {
+    "collegeId": "thakur_inst",
+    "collegeName": "Thakur Inst",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 1150,
+    "avgClosingRank": 1200
+  },
+  {
+    "collegeId": "vbmv_amravati",
+    "collegeName": "VBMV Amravati",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 8450,
+    "avgClosingRank": 8500
+  },
+  {
+    "collegeId": "vbmv_amravati",
+    "collegeName": "VBMV Amravati",
+    "exam": "MAH-MCA-CET",
+    "category": "OBC",
+    "safeRank": 10450,
+    "avgClosingRank": 10500
+  },
+  {
+    "collegeId": "vp_it_baramati",
+    "collegeName": "VP IT Baramati",
+    "exam": "MAH-MCA-CET",
+    "category": "AI",
+    "safeRank": 7950,
+    "avgClosingRank": 8000
+  },
+  {
+    "collegeId": "rsce_pune",
+    "collegeName": "RSCE Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 3550,
+    "avgClosingRank": 3600
+  },
+  {
+    "collegeId": "modern_coe",
+    "collegeName": "Modern COE",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 3150,
+    "avgClosingRank": 3200
+  },
+  {
+    "collegeId": "modern_coe",
+    "collegeName": "Modern COE",
+    "exam": "MAH-MCA-CET",
+    "category": "OBC",
+    "safeRank": 3950,
+    "avgClosingRank": 4000
+  },
+  {
+    "collegeId": "sies_mumbai",
+    "collegeName": "SIES Mumbai",
+    "exam": "MAH-MCA-CET",
+    "category": "Tamil Min",
+    "safeRank": 9450,
+    "avgClosingRank": 9500
+  },
+  {
+    "collegeId": "gce_aurangaba",
+    "collegeName": "GCE Aurangaba",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 2950,
+    "avgClosingRank": 3000
+  },
+  {
+    "collegeId": "dnyanopasak",
+    "collegeName": "Dnyanopasak",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 14950,
+    "avgClosingRank": 15000
+  },
+  {
+    "collegeId": "kamla_nehru",
+    "collegeName": "Kamla Nehru",
+    "exam": "MAH-MCA-CET",
+    "category": "General",
+    "safeRank": 9450,
+    "avgClosingRank": 9500
+  },
+  {
+    "collegeId": "dy_patil_chikh",
+    "collegeName": "DY Patil Chikh",
+    "exam": "MAH-MCA-CET",
+    "category": "AI",
+    "safeRank": 9450,
+    "avgClosingRank": 9500
+  },
+  {
+    "collegeId": "asms_pune",
+    "collegeName": "ASMS Pune",
+    "exam": "MAH-MCA-CET",
+    "category": "AI",
+    "safeRank": 8450,
+    "avgClosingRank": 8500
+  },
+  {
+    "collegeId": "jay_bhavani",
+    "collegeName": "Jay Bhavani",
+    "exam": "MAH-MCA-CET",
+    "category": "AI",
+    "safeRank": 19950,
+    "avgClosingRank": 20000
+  },
+  {
+    "collegeId": "godavari_inst",
+    "collegeName": "Godavari Inst",
+    "exam": "MAH-MCA-CET",
+    "category": "AI",
+    "safeRank": 24950,
+    "avgClosingRank": 25000
+  }
+]
