@@ -15,7 +15,7 @@ async function cleanData() {
   for (const doc of snapshot.docs) {
     const data = doc.data();
 
-    // 🔥 NEW CLEAN OBJECT
+    //NEW CLEAN OBJECT
     const cleaned = {
       collegeId:
         data.collegeId ||
@@ -29,11 +29,11 @@ async function cleanData() {
       avgClosingRank: Number(data.avgClosingRank),
     };
 
-    // 🔥 overwrite document
+    //overwrite document
     await db.collection("college_cutoffs").doc(doc.id).set(cleaned);
   }
 
-  console.log("✅ All documents cleaned!");
+  console.log("All documents cleaned!");
 }
 
 cleanData();

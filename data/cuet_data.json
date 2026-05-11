@@ -1,0 +1,946 @@
+[
+  {
+    "year": "2025",
+    "institute": "University of Delhi (DU)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "245",
+    "closingRankScore": "228"
+  },
+  {
+    "year": "2025",
+    "institute": "University of Delhi (DU)",
+    "program": "MCA",
+    "category": "OBC- NCL",
+    "openingRankScore": "215",
+    "closingRankScore": "198"
+  },
+  {
+    "year": "2025",
+    "institute": "University of Delhi (DU)",
+    "program": "MCA",
+    "category": "SC",
+    "openingRankScore": "185",
+    "closingRankScore": "162"
+  },
+  {
+    "year": "2025",
+    "institute": "University of Delhi (DU)",
+    "program": "MCA",
+    "category": "ST",
+    "openingRankScore": "160",
+    "closingRankScore": "145"
+  },
+  {
+    "year": "2025",
+    "institute": "University of Delhi (DU)",
+    "program": "MCA",
+    "category": "EWS",
+    "openingRankScore": "222",
+    "closingRankScore": "208"
+  },
+  {
+    "year": "2024",
+    "institute": "University of Delhi (DU)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "227",
+    "closingRankScore": "213"
+  },
+  {
+    "year": "2024",
+    "institute": "University of Delhi (DU)",
+    "program": "MCA",
+    "category": "OBC- NCL",
+    "openingRankScore": "195",
+    "closingRankScore": "182"
+  },
+  {
+    "year": "2024",
+    "institute": "University of Delhi (DU)",
+    "program": "MCA",
+    "category": "SC",
+    "openingRankScore": "155",
+    "closingRankScore": "138"
+  },
+  {
+    "year": "2023",
+    "institute": "JNU",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "78.33%",
+    "closingRankScore": "75.66%"
+  },
+  {
+    "year": "2023",
+    "institute": "JNU",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "75.00%",
+    "closingRankScore": "72.00%"
+  },
+  {
+    "year": "2023",
+    "institute": "JNU",
+    "program": "MCA",
+    "category": "OBC",
+    "openingRankScore": "71.22%",
+    "closingRankScore": "68.45%"
+  },
+  {
+    "year": "2023",
+    "institute": "JNU",
+    "program": "MCA",
+    "category": "SC",
+    "openingRankScore": "62.00%",
+    "closingRankScore": "58.33%"
+  },
+  {
+    "year": "2022",
+    "institute": "JNU",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "268/400",
+    "closingRankScore": "255/400"
+  },
+  {
+    "year": "2025",
+    "institute": "Banaras Hindu University (BHU)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "235",
+    "closingRankScore": "218"
+  },
+  {
+    "year": "2025",
+    "institute": "Banaras Hindu University (BHU)",
+    "program": "MCA",
+    "category": "OBC",
+    "openingRankScore": "210",
+    "closingRankScore": "192"
+  },
+  {
+    "year": "2025",
+    "institute": "Banaras Hindu University (BHU)",
+    "program": "MCA",
+    "category": "SC",
+    "openingRankScore": "175",
+    "closingRankScore": "155"
+  },
+  {
+    "year": "2024",
+    "institute": "Banaras Hindu University (BHU)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "225",
+    "closingRankScore": "208"
+  },
+  {
+    "year": "2024",
+    "institute": "Banaras Hindu University (BHU)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "220",
+    "closingRankScore": "204"
+  },
+  {
+    "year": "2023",
+    "institute": "Banaras Hindu University (BHU)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "275/400",
+    "closingRankScore": "262/400"
+  },
+  {
+    "year": "2025",
+    "institute": "HCU (Univ. of Hyderabad)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "225",
+    "closingRankScore": "205"
+  },
+  {
+    "year": "2025",
+    "institute": "HCU (Univ. of Hyderabad)",
+    "program": "MCA",
+    "category": "OBC",
+    "openingRankScore": "202",
+    "closingRankScore": "185"
+  },
+  {
+    "year": "2024",
+    "institute": "HCU (Univ. of Hyderabad)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "210",
+    "closingRankScore": "188"
+  },
+  {
+    "year": "2025",
+    "institute": "GGSIPU (IP University, Delhi)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "195",
+    "closingRankScore": "175"
+  },
+  {
+    "year": "2025",
+    "institute": "GGSIPU (IP University, Delhi)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "182",
+    "closingRankScore": "165"
+  },
+  {
+    "year": "2024",
+    "institute": "GGSIPU (IP University, Delhi)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "190",
+    "closingRankScore": "172"
+  },
+  {
+    "year": "2025",
+    "institute": "MMMUT Gorakhpur",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "205",
+    "closingRankScore": "188"
+  },
+  {
+    "year": "2025",
+    "institute": "MMMUT Gorakhpur",
+    "program": "MCA",
+    "category": "OBC",
+    "openingRankScore": "190",
+    "closingRankScore": "175"
+  },
+  {
+    "year": "2024",
+    "institute": "MMMUT Gorakhpur",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "195",
+    "closingRankScore": "178"
+  },
+  {
+    "year": "2023",
+    "institute": "MMMUT Gorakhpur",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "160",
+    "closingRankScore": "142"
+  },
+  {
+    "year": "2025",
+    "institute": "BBAU Lucknow",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "180",
+    "closingRankScore": "155"
+  },
+  {
+    "year": "2025",
+    "institute": "BBAU Lucknow",
+    "program": "MCA",
+    "category": "SC",
+    "openingRankScore": "110",
+    "closingRankScore": "85"
+  },
+  {
+    "year": "2024",
+    "institute": "BBAU Lucknow",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "172",
+    "closingRankScore": "148"
+  },
+  {
+    "year": "2025",
+    "institute": "Pondicherry University",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "190",
+    "closingRankScore": "172"
+  },
+  {
+    "year": "2025",
+    "institute": "Pondicherry University",
+    "program": "MCA",
+    "category": "OBC",
+    "openingRankScore": "175",
+    "closingRankScore": "158"
+  },
+  {
+    "year": "2024",
+    "institute": "Pondicherry University",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "175",
+    "closingRankScore": "152"
+  },
+  {
+    "year": "2024",
+    "institute": "Central Univ. of Rajasthan",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "165",
+    "closingRankScore": "148"
+  },
+  {
+    "year": "2024",
+    "institute": "Central Univ. of Haryana",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "158",
+    "closingRankScore": "135"
+  },
+  {
+    "year": "2024",
+    "institute": "Central Univ. of Punjab",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "155",
+    "closingRankScore": "132"
+  },
+  {
+    "year": "2024",
+    "institute": "Central Univ. of Kerala",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "148",
+    "closingRankScore": "122"
+  },
+  {
+    "year": "2024",
+    "institute": "Central Univ. of South Bihar",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "140",
+    "closingRankScore": "112"
+  },
+  {
+    "year": "2025",
+    "institute": "Devi Ahilya Vishwavidyalaya",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "210",
+    "closingRankScore": "185"
+  },
+  {
+    "year": "2025",
+    "institute": "Devi Ahilya Vishwavidyalaya",
+    "program": "MCA",
+    "category": "OBC",
+    "openingRankScore": "192",
+    "closingRankScore": "172"
+  },
+  {
+    "year": "2024",
+    "institute": "Devi Ahilya Vishwavidyalaya",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "195",
+    "closingRankScore": "168"
+  },
+  {
+    "year": "2025",
+    "institute": "Tezpur University",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "185",
+    "closingRankScore": "162"
+  },
+  {
+    "year": "2024",
+    "institute": "Tezpur University",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "170",
+    "closingRankScore": "145"
+  },
+  {
+    "year": "2025",
+    "institute": "AKTU (Affiliated Colleges)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "200",
+    "closingRankScore": "165"
+  },
+  {
+    "year": "2023",
+    "institute": "AKTU (Affiliated Colleges)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "210/400",
+    "closingRankScore": "175/400"
+  },
+  {
+    "year": "2021",
+    "institute": "University of Delhi (DUET)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "Rank 1",
+    "closingRankScore": "Rank 45"
+  },
+  {
+    "year": "2021",
+    "institute": "University of Delhi (DUET)",
+    "program": "MCA",
+    "category": "OBC",
+    "openingRankScore": "Rank 25",
+    "closingRankScore": "Rank 92"
+  },
+  {
+    "year": "2021",
+    "institute": "BHU (BHU-PET)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "285/450",
+    "closingRankScore": "242/450"
+  },
+  {
+    "year": "2025",
+    "institute": "Dr. B.R. Ambedkar Univ Delhi",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "190",
+    "closingRankScore": "168"
+  },
+  {
+    "year": "2024",
+    "institute": "Dr. B.R. Ambedkar Univ Delhi",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "182",
+    "closingRankScore": "155"
+  },
+  {
+    "year": "2025",
+    "institute": "Visva-Bharati University",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "175",
+    "closingRankScore": "155"
+  },
+  {
+    "year": "2025",
+    "institute": "Guru Ghasidas Vishwavidyalaya",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "155",
+    "closingRankScore": "130"
+  },
+  {
+    "year": "2025",
+    "institute": "Galgotias University (Pvt)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "145",
+    "closingRankScore": "110"
+  },
+  {
+    "year": "2024",
+    "institute": "Amity University (Pvt)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "130",
+    "closingRankScore": "90"
+  },
+  {
+    "year": "2024",
+    "institute": "Tripura University",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "115",
+    "closingRankScore": "85"
+  },
+  {
+    "year": "2024",
+    "institute": "NEHU Shillong",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "135",
+    "closingRankScore": "110"
+  },
+  {
+    "year": "2025",
+    "institute": "Rajiv Gandhi University",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "140",
+    "closingRankScore": "115"
+  },
+  {
+    "year": "2025",
+    "institute": "University of Delhi (DU)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "245",
+    "closingRankScore": "228"
+  },
+  {
+    "year": "2025",
+    "institute": "University of Delhi (DU)",
+    "program": "MCA",
+    "category": "OBC- NCL",
+    "openingRankScore": "215",
+    "closingRankScore": "198"
+  },
+  {
+    "year": "2025",
+    "institute": "University of Delhi (DU)",
+    "program": "MCA",
+    "category": "SC",
+    "openingRankScore": "185",
+    "closingRankScore": "162"
+  },
+  {
+    "year": "2025",
+    "institute": "University of Delhi (DU)",
+    "program": "MCA",
+    "category": "ST",
+    "openingRankScore": "160",
+    "closingRankScore": "145"
+  },
+  {
+    "year": "2025",
+    "institute": "University of Delhi (DU)",
+    "program": "MCA",
+    "category": "EWS",
+    "openingRankScore": "222",
+    "closingRankScore": "208"
+  },
+  {
+    "year": "2024",
+    "institute": "University of Delhi (DU)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "227",
+    "closingRankScore": "213"
+  },
+  {
+    "year": "2024",
+    "institute": "University of Delhi (DU)",
+    "program": "MCA",
+    "category": "OBC- NCL",
+    "openingRankScore": "195",
+    "closingRankScore": "182"
+  },
+  {
+    "year": "2023",
+    "institute": "JNU",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "78.33%",
+    "closingRankScore": "75.66%"
+  },
+  {
+    "year": "2023",
+    "institute": "JNU",
+    "program": "MCA",
+    "category": "OBC",
+    "openingRankScore": "71.22%",
+    "closingRankScore": "68.45%"
+  },
+  {
+    "year": "2022",
+    "institute": "JNU",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "268/400",
+    "closingRankScore": "255/400"
+  },
+  {
+    "year": "2025",
+    "institute": "Banaras Hindu University (BHU)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "235",
+    "closingRankScore": "218"
+  },
+  {
+    "year": "2025",
+    "institute": "Banaras Hindu University (BHU)",
+    "program": "MCA",
+    "category": "OBC",
+    "openingRankScore": "210",
+    "closingRankScore": "192"
+  },
+  {
+    "year": "2024",
+    "institute": "Banaras Hindu University (BHU)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "225",
+    "closingRankScore": "208"
+  },
+  {
+    "year": "2025",
+    "institute": "HCU (Univ. of Hyderabad)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "225",
+    "closingRankScore": "205"
+  },
+  {
+    "year": "2024",
+    "institute": "HCU (Univ. of Hyderabad)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "210",
+    "closingRankScore": "188"
+  },
+  {
+    "year": "2025",
+    "institute": "GGSIPU (IP University, Delhi)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "195",
+    "closingRankScore": "175"
+  },
+  {
+    "year": "2024",
+    "institute": "GGSIPU (IP University, Delhi)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "190",
+    "closingRankScore": "172"
+  },
+  {
+    "year": "2025",
+    "institute": "MMMUT Gorakhpur",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "205",
+    "closingRankScore": "188"
+  },
+  {
+    "year": "2025",
+    "institute": "MMMUT Gorakhpur",
+    "program": "MCA",
+    "category": "OBC",
+    "openingRankScore": "190",
+    "closingRankScore": "175"
+  },
+  {
+    "year": "2023",
+    "institute": "MMMUT Gorakhpur",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "160",
+    "closingRankScore": "142"
+  },
+  {
+    "year": "2025",
+    "institute": "BBAU Lucknow",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "180",
+    "closingRankScore": "155"
+  },
+  {
+    "year": "2025",
+    "institute": "BBAU Lucknow",
+    "program": "MCA",
+    "category": "SC",
+    "openingRankScore": "110",
+    "closingRankScore": "85"
+  },
+  {
+    "year": "2025",
+    "institute": "Pondicherry University",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "190",
+    "closingRankScore": "172"
+  },
+  {
+    "year": "2024",
+    "institute": "Pondicherry University",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "175",
+    "closingRankScore": "152"
+  },
+  {
+    "year": "2024",
+    "institute": "Central Univ. of Rajasthan",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "165",
+    "closingRankScore": "148"
+  },
+  {
+    "year": "2024",
+    "institute": "Central Univ. of Haryana",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "158",
+    "closingRankScore": "135"
+  },
+  {
+    "year": "2024",
+    "institute": "Central Univ. of Punjab",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "155",
+    "closingRankScore": "132"
+  },
+  {
+    "year": "2024",
+    "institute": "Central Univ. of Kerala",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "148",
+    "closingRankScore": "122"
+  },
+  {
+    "year": "2025",
+    "institute": "Devi Ahilya Vishwavidyalaya",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "210",
+    "closingRankScore": "185"
+  },
+  {
+    "year": "2025",
+    "institute": "Tezpur University",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "185",
+    "closingRankScore": "162"
+  },
+  {
+    "year": "2025",
+    "institute": "AKTU (KNET/Top Colleges)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "200",
+    "closingRankScore": "165"
+  },
+  {
+    "year": "2023",
+    "institute": "AKTU (Govt Colleges)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "210/400",
+    "closingRankScore": "175/400"
+  },
+  {
+    "year": "2021",
+    "institute": "University of Delhi (DUET)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "Rank 1",
+    "closingRankScore": "Rank 45"
+  },
+  {
+    "year": "2021",
+    "institute": "BHU (BHU-PET)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "285/450",
+    "closingRankScore": "242/450"
+  },
+  {
+    "year": "2025",
+    "institute": "Dr. B.R. Ambedkar Univ Delhi",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "190",
+    "closingRankScore": "168"
+  },
+  {
+    "year": "2025",
+    "institute": "Visva-Bharati University",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "175",
+    "closingRankScore": "155"
+  },
+  {
+    "year": "2025",
+    "institute": "Guru Ghasidas Vishwavidyalaya",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "155",
+    "closingRankScore": "130"
+  },
+  {
+    "year": "2025",
+    "institute": "Galgotias University (Pvt)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "145",
+    "closingRankScore": "110"
+  },
+  {
+    "year": "2024",
+    "institute": "Amity University (Pvt)",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "130",
+    "closingRankScore": "90"
+  },
+  {
+    "year": "2024",
+    "institute": "Tripura University",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "115",
+    "closingRankScore": "85"
+  },
+  {
+    "year": "2024",
+    "institute": "NEHU Shillong",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "135",
+    "closingRankScore": "110"
+  },
+  {
+    "year": "2025",
+    "institute": "Rajiv Gandhi University",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "140",
+    "closingRankScore": "115"
+  },
+  {
+    "year": "2024",
+    "institute": "Hemvati Nandan Bahuguna Univ",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "125",
+    "closingRankScore": "95"
+  },
+  {
+    "year": "2025",
+    "institute": "Manipur University",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "120",
+    "closingRankScore": "92"
+  },
+  {
+    "year": "2025",
+    "institute": "Sikkim University",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "135",
+    "closingRankScore": "105"
+  },
+  {
+    "year": "2024",
+    "institute": "Central Univ of South Bihar",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "140",
+    "closingRankScore": "112"
+  },
+  {
+    "year": "2024",
+    "institute": "Central Univ of Jharkhand",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "152",
+    "closingRankScore": "128"
+  },
+  {
+    "year": "2024",
+    "institute": "Central Univ of Karnataka",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "145",
+    "closingRankScore": "120"
+  },
+  {
+    "year": "2024",
+    "institute": "Central Univ of Kashmir",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "130",
+    "closingRankScore": "102"
+  },
+  {
+    "year": "2024",
+    "institute": "Central Univ of Odisha",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "125",
+    "closingRankScore": "98"
+  },
+  {
+    "year": "2025",
+    "institute": "Mizoram University",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "115",
+    "closingRankScore": "88"
+  },
+  {
+    "year": "2025",
+    "institute": "Nagaland University",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "105",
+    "closingRankScore": "75"
+  },
+  {
+    "year": "2025",
+    "institute": "Shri Mata Vaishno Devi Univ",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "142",
+    "closingRankScore": "118"
+  },
+  {
+    "year": "2025",
+    "institute": "Islamic Univ Science & Tech",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "118",
+    "closingRankScore": "90"
+  },
+  {
+    "year": "2025",
+    "institute": "Jiwaji University",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "145",
+    "closingRankScore": "122"
+  },
+  {
+    "year": "2025",
+    "institute": "Vikram University",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "130",
+    "closingRankScore": "105"
+  },
+  {
+    "year": "2025",
+    "institute": "Barkatullah University",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "155",
+    "closingRankScore": "132"
+  },
+  {
+    "year": "2024",
+    "institute": "Mahatma Gandhi Central Univ",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "138",
+    "closingRankScore": "115"
+  },
+  {
+    "year": "2025",
+    "institute": "IGNTU Amarkantak",
+    "program": "MCA",
+    "category": "General",
+    "openingRankScore": "148",
+    "closingRankScore": "125"
+  }
+]

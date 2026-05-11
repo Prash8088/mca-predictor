@@ -1,0 +1,946 @@
+[
+  {
+    "collegeId": "university_of_delhi_du_0",
+    "collegeName": "University of Delhi (DU)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 733,
+    "avgClosingRank": 960
+  },
+  {
+    "collegeId": "university_of_delhi_du_1",
+    "collegeName": "University of Delhi (DU)",
+    "exam": "CUET-PG",
+    "category": "OBC- NCL",
+    "safeRank": 1133,
+    "avgClosingRank": 1360
+  },
+  {
+    "collegeId": "university_of_delhi_du_2",
+    "collegeName": "University of Delhi (DU)",
+    "exam": "CUET-PG",
+    "category": "SC",
+    "safeRank": 1533,
+    "avgClosingRank": 1840
+  },
+  {
+    "collegeId": "university_of_delhi_du_3",
+    "collegeName": "University of Delhi (DU)",
+    "exam": "CUET-PG",
+    "category": "ST",
+    "safeRank": 1866,
+    "avgClosingRank": 2066
+  },
+  {
+    "collegeId": "university_of_delhi_du_4",
+    "collegeName": "University of Delhi (DU)",
+    "exam": "CUET-PG",
+    "category": "EWS",
+    "safeRank": 1040,
+    "avgClosingRank": 1226
+  },
+  {
+    "collegeId": "university_of_delhi_du_5",
+    "collegeName": "University of Delhi (DU)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 973,
+    "avgClosingRank": 1160
+  },
+  {
+    "collegeId": "university_of_delhi_du_6",
+    "collegeName": "University of Delhi (DU)",
+    "exam": "CUET-PG",
+    "category": "OBC- NCL",
+    "safeRank": 1400,
+    "avgClosingRank": 1573
+  },
+  {
+    "collegeId": "university_of_delhi_du_7",
+    "collegeName": "University of Delhi (DU)",
+    "exam": "CUET-PG",
+    "category": "SC",
+    "safeRank": 1933,
+    "avgClosingRank": 2160
+  },
+  {
+    "collegeId": "jnu_8",
+    "collegeName": "JNU",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 880,
+    "avgClosingRank": 986
+  },
+  {
+    "collegeId": "jnu_9",
+    "collegeName": "JNU",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1000,
+    "avgClosingRank": 1120
+  },
+  {
+    "collegeId": "jnu_10",
+    "collegeName": "JNU",
+    "exam": "CUET-PG",
+    "category": "OBC",
+    "safeRank": 1160,
+    "avgClosingRank": 1266
+  },
+  {
+    "collegeId": "jnu_11",
+    "collegeName": "JNU",
+    "exam": "CUET-PG",
+    "category": "SC",
+    "safeRank": 1520,
+    "avgClosingRank": 1680
+  },
+  {
+    "collegeId": "jnu_12",
+    "collegeName": "JNU",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1320,
+    "avgClosingRank": 1453
+  },
+  {
+    "collegeId": "banaras_hindu_university_bhu_13",
+    "collegeName": "Banaras Hindu University (BHU)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 866,
+    "avgClosingRank": 1093
+  },
+  {
+    "collegeId": "banaras_hindu_university_bhu_14",
+    "collegeName": "Banaras Hindu University (BHU)",
+    "exam": "CUET-PG",
+    "category": "OBC",
+    "safeRank": 1200,
+    "avgClosingRank": 1440
+  },
+  {
+    "collegeId": "banaras_hindu_university_bhu_15",
+    "collegeName": "Banaras Hindu University (BHU)",
+    "exam": "CUET-PG",
+    "category": "SC",
+    "safeRank": 1666,
+    "avgClosingRank": 1933
+  },
+  {
+    "collegeId": "banaras_hindu_university_bhu_16",
+    "collegeName": "Banaras Hindu University (BHU)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1000,
+    "avgClosingRank": 1226
+  },
+  {
+    "collegeId": "banaras_hindu_university_bhu_17",
+    "collegeName": "Banaras Hindu University (BHU)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1066,
+    "avgClosingRank": 1280
+  },
+  {
+    "collegeId": "banaras_hindu_university_bhu_18",
+    "collegeName": "Banaras Hindu University (BHU)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1253,
+    "avgClosingRank": 1386
+  },
+  {
+    "collegeId": "hcu_univ_of_hyderabad_19",
+    "collegeName": "HCU (Univ. of Hyderabad)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1000,
+    "avgClosingRank": 1266
+  },
+  {
+    "collegeId": "hcu_univ_of_hyderabad_20",
+    "collegeName": "HCU (Univ. of Hyderabad)",
+    "exam": "CUET-PG",
+    "category": "OBC",
+    "safeRank": 1306,
+    "avgClosingRank": 1533
+  },
+  {
+    "collegeId": "hcu_univ_of_hyderabad_21",
+    "collegeName": "HCU (Univ. of Hyderabad)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1200,
+    "avgClosingRank": 1493
+  },
+  {
+    "collegeId": "ggsipu_ip_university_delhi_22",
+    "collegeName": "GGSIPU (IP University, Delhi)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1400,
+    "avgClosingRank": 1666
+  },
+  {
+    "collegeId": "ggsipu_ip_university_delhi_23",
+    "collegeName": "GGSIPU (IP University, Delhi)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1573,
+    "avgClosingRank": 1800
+  },
+  {
+    "collegeId": "ggsipu_ip_university_delhi_24",
+    "collegeName": "GGSIPU (IP University, Delhi)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1466,
+    "avgClosingRank": 1706
+  },
+  {
+    "collegeId": "mmmut_gorakhpur_25",
+    "collegeName": "MMMUT Gorakhpur",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1266,
+    "avgClosingRank": 1493
+  },
+  {
+    "collegeId": "mmmut_gorakhpur_26",
+    "collegeName": "MMMUT Gorakhpur",
+    "exam": "CUET-PG",
+    "category": "OBC",
+    "safeRank": 1466,
+    "avgClosingRank": 1666
+  },
+  {
+    "collegeId": "mmmut_gorakhpur_27",
+    "collegeName": "MMMUT Gorakhpur",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1400,
+    "avgClosingRank": 1626
+  },
+  {
+    "collegeId": "mmmut_gorakhpur_28",
+    "collegeName": "MMMUT Gorakhpur",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1866,
+    "avgClosingRank": 2106
+  },
+  {
+    "collegeId": "bbau_lucknow_29",
+    "collegeName": "BBAU Lucknow",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1600,
+    "avgClosingRank": 1933
+  },
+  {
+    "collegeId": "bbau_lucknow_30",
+    "collegeName": "BBAU Lucknow",
+    "exam": "CUET-PG",
+    "category": "SC",
+    "safeRank": 2533,
+    "avgClosingRank": 2866
+  },
+  {
+    "collegeId": "bbau_lucknow_31",
+    "collegeName": "BBAU Lucknow",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1706,
+    "avgClosingRank": 2026
+  },
+  {
+    "collegeId": "pondicherry_university_32",
+    "collegeName": "Pondicherry University",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1466,
+    "avgClosingRank": 1706
+  },
+  {
+    "collegeId": "pondicherry_university_33",
+    "collegeName": "Pondicherry University",
+    "exam": "CUET-PG",
+    "category": "OBC",
+    "safeRank": 1666,
+    "avgClosingRank": 1893
+  },
+  {
+    "collegeId": "pondicherry_university_34",
+    "collegeName": "Pondicherry University",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1666,
+    "avgClosingRank": 1973
+  },
+  {
+    "collegeId": "central_univ_of_rajasthan_35",
+    "collegeName": "Central Univ. of Rajasthan",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1800,
+    "avgClosingRank": 2026
+  },
+  {
+    "collegeId": "central_univ_of_haryana_36",
+    "collegeName": "Central Univ. of Haryana",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1893,
+    "avgClosingRank": 2200
+  },
+  {
+    "collegeId": "central_univ_of_punjab_37",
+    "collegeName": "Central Univ. of Punjab",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1933,
+    "avgClosingRank": 2240
+  },
+  {
+    "collegeId": "central_univ_of_kerala_38",
+    "collegeName": "Central Univ. of Kerala",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2026,
+    "avgClosingRank": 2373
+  },
+  {
+    "collegeId": "central_univ_of_south_bihar_39",
+    "collegeName": "Central Univ. of South Bihar",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2133,
+    "avgClosingRank": 2506
+  },
+  {
+    "collegeId": "devi_ahilya_vishwavidyalaya_40",
+    "collegeName": "Devi Ahilya Vishwavidyalaya",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1200,
+    "avgClosingRank": 1533
+  },
+  {
+    "collegeId": "devi_ahilya_vishwavidyalaya_41",
+    "collegeName": "Devi Ahilya Vishwavidyalaya",
+    "exam": "CUET-PG",
+    "category": "OBC",
+    "safeRank": 1440,
+    "avgClosingRank": 1706
+  },
+  {
+    "collegeId": "devi_ahilya_vishwavidyalaya_42",
+    "collegeName": "Devi Ahilya Vishwavidyalaya",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1400,
+    "avgClosingRank": 1760
+  },
+  {
+    "collegeId": "tezpur_university_43",
+    "collegeName": "Tezpur University",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1533,
+    "avgClosingRank": 1840
+  },
+  {
+    "collegeId": "tezpur_university_44",
+    "collegeName": "Tezpur University",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1733,
+    "avgClosingRank": 2066
+  },
+  {
+    "collegeId": "aktu_affiliated_colleges_45",
+    "collegeName": "AKTU (Affiliated Colleges)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1333,
+    "avgClosingRank": 1800
+  },
+  {
+    "collegeId": "aktu_affiliated_colleges_46",
+    "collegeName": "AKTU (Affiliated Colleges)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1906,
+    "avgClosingRank": 2253
+  },
+  {
+    "collegeId": "university_of_delhi_duet_47",
+    "collegeName": "University of Delhi (DUET)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 3986,
+    "avgClosingRank": 3400
+  },
+  {
+    "collegeId": "university_of_delhi_duet_48",
+    "collegeName": "University of Delhi (DUET)",
+    "exam": "CUET-PG",
+    "category": "OBC",
+    "safeRank": 3666,
+    "avgClosingRank": 2773
+  },
+  {
+    "collegeId": "bhu_bhupet_49",
+    "collegeName": "BHU (BHU-PET)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1466,
+    "avgClosingRank": 1853
+  },
+  {
+    "collegeId": "dr_br_ambedkar_univ_delhi_50",
+    "collegeName": "Dr. B.R. Ambedkar Univ Delhi",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1466,
+    "avgClosingRank": 1760
+  },
+  {
+    "collegeId": "dr_br_ambedkar_univ_delhi_51",
+    "collegeName": "Dr. B.R. Ambedkar Univ Delhi",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1573,
+    "avgClosingRank": 1933
+  },
+  {
+    "collegeId": "visvabharati_university_52",
+    "collegeName": "Visva-Bharati University",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1666,
+    "avgClosingRank": 1933
+  },
+  {
+    "collegeId": "guru_ghasidas_vishwavidyalaya_53",
+    "collegeName": "Guru Ghasidas Vishwavidyalaya",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1933,
+    "avgClosingRank": 2266
+  },
+  {
+    "collegeId": "galgotias_university_pvt_54",
+    "collegeName": "Galgotias University (Pvt)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2066,
+    "avgClosingRank": 2533
+  },
+  {
+    "collegeId": "amity_university_pvt_55",
+    "collegeName": "Amity University (Pvt)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2266,
+    "avgClosingRank": 2800
+  },
+  {
+    "collegeId": "tripura_university_56",
+    "collegeName": "Tripura University",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2466,
+    "avgClosingRank": 2866
+  },
+  {
+    "collegeId": "nehu_shillong_57",
+    "collegeName": "NEHU Shillong",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2200,
+    "avgClosingRank": 2533
+  },
+  {
+    "collegeId": "rajiv_gandhi_university_58",
+    "collegeName": "Rajiv Gandhi University",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2133,
+    "avgClosingRank": 2466
+  },
+  {
+    "collegeId": "university_of_delhi_du_59",
+    "collegeName": "University of Delhi (DU)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 733,
+    "avgClosingRank": 960
+  },
+  {
+    "collegeId": "university_of_delhi_du_60",
+    "collegeName": "University of Delhi (DU)",
+    "exam": "CUET-PG",
+    "category": "OBC- NCL",
+    "safeRank": 1133,
+    "avgClosingRank": 1360
+  },
+  {
+    "collegeId": "university_of_delhi_du_61",
+    "collegeName": "University of Delhi (DU)",
+    "exam": "CUET-PG",
+    "category": "SC",
+    "safeRank": 1533,
+    "avgClosingRank": 1840
+  },
+  {
+    "collegeId": "university_of_delhi_du_62",
+    "collegeName": "University of Delhi (DU)",
+    "exam": "CUET-PG",
+    "category": "ST",
+    "safeRank": 1866,
+    "avgClosingRank": 2066
+  },
+  {
+    "collegeId": "university_of_delhi_du_63",
+    "collegeName": "University of Delhi (DU)",
+    "exam": "CUET-PG",
+    "category": "EWS",
+    "safeRank": 1040,
+    "avgClosingRank": 1226
+  },
+  {
+    "collegeId": "university_of_delhi_du_64",
+    "collegeName": "University of Delhi (DU)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 973,
+    "avgClosingRank": 1160
+  },
+  {
+    "collegeId": "university_of_delhi_du_65",
+    "collegeName": "University of Delhi (DU)",
+    "exam": "CUET-PG",
+    "category": "OBC- NCL",
+    "safeRank": 1400,
+    "avgClosingRank": 1573
+  },
+  {
+    "collegeId": "jnu_66",
+    "collegeName": "JNU",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 880,
+    "avgClosingRank": 986
+  },
+  {
+    "collegeId": "jnu_67",
+    "collegeName": "JNU",
+    "exam": "CUET-PG",
+    "category": "OBC",
+    "safeRank": 1160,
+    "avgClosingRank": 1266
+  },
+  {
+    "collegeId": "jnu_68",
+    "collegeName": "JNU",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1320,
+    "avgClosingRank": 1453
+  },
+  {
+    "collegeId": "banaras_hindu_university_bhu_69",
+    "collegeName": "Banaras Hindu University (BHU)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 866,
+    "avgClosingRank": 1093
+  },
+  {
+    "collegeId": "banaras_hindu_university_bhu_70",
+    "collegeName": "Banaras Hindu University (BHU)",
+    "exam": "CUET-PG",
+    "category": "OBC",
+    "safeRank": 1200,
+    "avgClosingRank": 1440
+  },
+  {
+    "collegeId": "banaras_hindu_university_bhu_71",
+    "collegeName": "Banaras Hindu University (BHU)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1000,
+    "avgClosingRank": 1226
+  },
+  {
+    "collegeId": "hcu_univ_of_hyderabad_72",
+    "collegeName": "HCU (Univ. of Hyderabad)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1000,
+    "avgClosingRank": 1266
+  },
+  {
+    "collegeId": "hcu_univ_of_hyderabad_73",
+    "collegeName": "HCU (Univ. of Hyderabad)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1200,
+    "avgClosingRank": 1493
+  },
+  {
+    "collegeId": "ggsipu_ip_university_delhi_74",
+    "collegeName": "GGSIPU (IP University, Delhi)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1400,
+    "avgClosingRank": 1666
+  },
+  {
+    "collegeId": "ggsipu_ip_university_delhi_75",
+    "collegeName": "GGSIPU (IP University, Delhi)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1466,
+    "avgClosingRank": 1706
+  },
+  {
+    "collegeId": "mmmut_gorakhpur_76",
+    "collegeName": "MMMUT Gorakhpur",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1266,
+    "avgClosingRank": 1493
+  },
+  {
+    "collegeId": "mmmut_gorakhpur_77",
+    "collegeName": "MMMUT Gorakhpur",
+    "exam": "CUET-PG",
+    "category": "OBC",
+    "safeRank": 1466,
+    "avgClosingRank": 1666
+  },
+  {
+    "collegeId": "mmmut_gorakhpur_78",
+    "collegeName": "MMMUT Gorakhpur",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1866,
+    "avgClosingRank": 2106
+  },
+  {
+    "collegeId": "bbau_lucknow_79",
+    "collegeName": "BBAU Lucknow",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1600,
+    "avgClosingRank": 1933
+  },
+  {
+    "collegeId": "bbau_lucknow_80",
+    "collegeName": "BBAU Lucknow",
+    "exam": "CUET-PG",
+    "category": "SC",
+    "safeRank": 2533,
+    "avgClosingRank": 2866
+  },
+  {
+    "collegeId": "pondicherry_university_81",
+    "collegeName": "Pondicherry University",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1466,
+    "avgClosingRank": 1706
+  },
+  {
+    "collegeId": "pondicherry_university_82",
+    "collegeName": "Pondicherry University",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1666,
+    "avgClosingRank": 1973
+  },
+  {
+    "collegeId": "central_univ_of_rajasthan_83",
+    "collegeName": "Central Univ. of Rajasthan",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1800,
+    "avgClosingRank": 2026
+  },
+  {
+    "collegeId": "central_univ_of_haryana_84",
+    "collegeName": "Central Univ. of Haryana",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1893,
+    "avgClosingRank": 2200
+  },
+  {
+    "collegeId": "central_univ_of_punjab_85",
+    "collegeName": "Central Univ. of Punjab",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1933,
+    "avgClosingRank": 2240
+  },
+  {
+    "collegeId": "central_univ_of_kerala_86",
+    "collegeName": "Central Univ. of Kerala",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2026,
+    "avgClosingRank": 2373
+  },
+  {
+    "collegeId": "devi_ahilya_vishwavidyalaya_87",
+    "collegeName": "Devi Ahilya Vishwavidyalaya",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1200,
+    "avgClosingRank": 1533
+  },
+  {
+    "collegeId": "tezpur_university_88",
+    "collegeName": "Tezpur University",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1533,
+    "avgClosingRank": 1840
+  },
+  {
+    "collegeId": "aktu_knettop_colleges_89",
+    "collegeName": "AKTU (KNET/Top Colleges)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1333,
+    "avgClosingRank": 1800
+  },
+  {
+    "collegeId": "aktu_govt_colleges_90",
+    "collegeName": "AKTU (Govt Colleges)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1906,
+    "avgClosingRank": 2253
+  },
+  {
+    "collegeId": "university_of_delhi_duet_91",
+    "collegeName": "University of Delhi (DUET)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 3986,
+    "avgClosingRank": 3400
+  },
+  {
+    "collegeId": "bhu_bhupet_92",
+    "collegeName": "BHU (BHU-PET)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1466,
+    "avgClosingRank": 1853
+  },
+  {
+    "collegeId": "dr_br_ambedkar_univ_delhi_93",
+    "collegeName": "Dr. B.R. Ambedkar Univ Delhi",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1466,
+    "avgClosingRank": 1760
+  },
+  {
+    "collegeId": "visvabharati_university_94",
+    "collegeName": "Visva-Bharati University",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1666,
+    "avgClosingRank": 1933
+  },
+  {
+    "collegeId": "guru_ghasidas_vishwavidyalaya_95",
+    "collegeName": "Guru Ghasidas Vishwavidyalaya",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1933,
+    "avgClosingRank": 2266
+  },
+  {
+    "collegeId": "galgotias_university_pvt_96",
+    "collegeName": "Galgotias University (Pvt)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2066,
+    "avgClosingRank": 2533
+  },
+  {
+    "collegeId": "amity_university_pvt_97",
+    "collegeName": "Amity University (Pvt)",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2266,
+    "avgClosingRank": 2800
+  },
+  {
+    "collegeId": "tripura_university_98",
+    "collegeName": "Tripura University",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2466,
+    "avgClosingRank": 2866
+  },
+  {
+    "collegeId": "nehu_shillong_99",
+    "collegeName": "NEHU Shillong",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2200,
+    "avgClosingRank": 2533
+  },
+  {
+    "collegeId": "rajiv_gandhi_university_100",
+    "collegeName": "Rajiv Gandhi University",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2133,
+    "avgClosingRank": 2466
+  },
+  {
+    "collegeId": "hemvati_nandan_bahuguna_univ_101",
+    "collegeName": "Hemvati Nandan Bahuguna Univ",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2333,
+    "avgClosingRank": 2733
+  },
+  {
+    "collegeId": "manipur_university_102",
+    "collegeName": "Manipur University",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2400,
+    "avgClosingRank": 2773
+  },
+  {
+    "collegeId": "sikkim_university_103",
+    "collegeName": "Sikkim University",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2200,
+    "avgClosingRank": 2600
+  },
+  {
+    "collegeId": "central_univ_of_south_bihar_104",
+    "collegeName": "Central Univ of South Bihar",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2133,
+    "avgClosingRank": 2506
+  },
+  {
+    "collegeId": "central_univ_of_jharkhand_105",
+    "collegeName": "Central Univ of Jharkhand",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1973,
+    "avgClosingRank": 2293
+  },
+  {
+    "collegeId": "central_univ_of_karnataka_106",
+    "collegeName": "Central Univ of Karnataka",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2066,
+    "avgClosingRank": 2400
+  },
+  {
+    "collegeId": "central_univ_of_kashmir_107",
+    "collegeName": "Central Univ of Kashmir",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2266,
+    "avgClosingRank": 2640
+  },
+  {
+    "collegeId": "central_univ_of_odisha_108",
+    "collegeName": "Central Univ of Odisha",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2333,
+    "avgClosingRank": 2693
+  },
+  {
+    "collegeId": "mizoram_university_109",
+    "collegeName": "Mizoram University",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2466,
+    "avgClosingRank": 2826
+  },
+  {
+    "collegeId": "nagaland_university_110",
+    "collegeName": "Nagaland University",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2600,
+    "avgClosingRank": 3000
+  },
+  {
+    "collegeId": "shri_mata_vaishno_devi_univ_111",
+    "collegeName": "Shri Mata Vaishno Devi Univ",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2106,
+    "avgClosingRank": 2426
+  },
+  {
+    "collegeId": "islamic_univ_science__tech_112",
+    "collegeName": "Islamic Univ Science & Tech",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2426,
+    "avgClosingRank": 2800
+  },
+  {
+    "collegeId": "jiwaji_university_113",
+    "collegeName": "Jiwaji University",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2066,
+    "avgClosingRank": 2373
+  },
+  {
+    "collegeId": "vikram_university_114",
+    "collegeName": "Vikram University",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2266,
+    "avgClosingRank": 2600
+  },
+  {
+    "collegeId": "barkatullah_university_115",
+    "collegeName": "Barkatullah University",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 1933,
+    "avgClosingRank": 2240
+  },
+  {
+    "collegeId": "mahatma_gandhi_central_univ_116",
+    "collegeName": "Mahatma Gandhi Central Univ",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2160,
+    "avgClosingRank": 2466
+  },
+  {
+    "collegeId": "igntu_amarkantak_117",
+    "collegeName": "IGNTU Amarkantak",
+    "exam": "CUET-PG",
+    "category": "General",
+    "safeRank": 2026,
+    "avgClosingRank": 2333
+  }
+]

@@ -10,14 +10,14 @@ const db = admin.firestore();
 
 async function exportData() {
   try {
-    console.log("🚀 Starting export...");
+    console.log("Starting export...");
 
     const snapshot = await db.collection("college_cutoffs").get();
 
-    console.log("📊 Documents found:", snapshot.size);
+    console.log("Documents found:", snapshot.size);
 
     if (snapshot.empty) {
-      console.log("❌ No data found in Firestore");
+      console.log("No data found in Firestore");
       return;
     }
 
@@ -32,9 +32,9 @@ async function exportData() {
       JSON.stringify(data, null, 2)
     );
 
-    console.log("✅ Data recovered:", data.length);
+    console.log("Data recovered:", data.length);
   } catch (error) {
-    console.error("❌ ERROR:", error);
+    console.error("ERROR:", error);
   }
 }
 

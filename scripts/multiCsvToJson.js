@@ -7,7 +7,7 @@ fs.createReadStream("./data/csvs/MAH-MCA-CET.csv")
   .pipe(csv())
   .on("data", (row) => {
     try {
-      // 🔥 flexible column handling
+      // flexible column handling
       const collegeName =
         row["Institute"] ||
         row["College Name"] ||
@@ -17,7 +17,7 @@ fs.createReadStream("./data/csvs/MAH-MCA-CET.csv")
 
       const cleanName = collegeName.replace(/\n/g, " ").trim();
 
-      // 🔥 MAH usually has only closing rank
+      // MAH usually has only closing rank
       let closingRank = Number(
         row["Closing Rank"] ||
         row["Rank"] ||
@@ -26,7 +26,7 @@ fs.createReadStream("./data/csvs/MAH-MCA-CET.csv")
 
       if (isNaN(closingRank)) return;
 
-      // 🔥 create approximate opening rank
+      // create approximate opening rank
       let openingRank = closingRank - 50; // adjust if needed
 
       const json = {
@@ -57,5 +57,5 @@ fs.createReadStream("./data/csvs/MAH-MCA-CET.csv")
       JSON.stringify(results, null, 2)
     );
 
-    console.log("✅ Converted:", results.length);
+    console.log("Converted:", results.length);
   });

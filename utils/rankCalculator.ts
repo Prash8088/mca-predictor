@@ -3,25 +3,54 @@ export function calculateExpectedRank(
   marks: number,
   difficulty: string
 ) {
-  let baseRank = 0;
 
+  let percentage = 0;
+  let maxRank = 0;
+
+  // NIMCET
   if (exam === "NIMCET") {
-    baseRank = Math.floor(1200 - marks * 2);
+
+    percentage = (marks / 1000) * 100;
+    maxRank = 1200;
+
   }
 
-  if (exam === "CUET-PG") {
-    baseRank = Math.floor(2000 - marks * 3);
+  // MAH-MCA-CET
+  else if (exam === "MAH-MCA-CET") {
+
+    percentage = (marks / 200) * 100;
+    maxRank = 5000;
+
   }
 
-  if (exam === "MAH-MCA-CET") {
-    baseRank = Math.floor(1500 - marks * 2.5);
+  // CUET-PG
+ else if (exam === "CUET-PG") {
+
+  //CUET-PG TOTAL = 300
+  percentage = (marks / 300) * 100;
+
+  //CUET HAS LARGER RANK SPREAD
+  maxRank = 4000;
+}
+
+  // PERCENTILE STYLE
+  let baseRank = Math.floor(
+    maxRank *
+    Math.pow((100 - percentage) / 100, 2)
+  );
+
+  //DIFFICULTY
+  if (difficulty === "Easy") {
+
+    baseRank += Math.floor(maxRank * 0.05);
+
+  } else if (difficulty === "Hard") {
+
+    baseRank -= Math.floor(maxRank * 0.05);
   }
 
-  let multiplier = 1;
+  // MIN LIMIT
+  if (baseRank < 1) baseRank = 1;
 
-  if (difficulty === "Easy") multiplier = 0.9;
-  if (difficulty === "Moderate") multiplier = 1;
-  if (difficulty === "Hard") multiplier = 1.1;
-
-  return Math.max(1, Math.floor(baseRank * multiplier));
+  return baseRank;
 }
