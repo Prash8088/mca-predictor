@@ -13,15 +13,15 @@ export default function Home() {
 
     <div className="min-h-screen bg-gray-900 flex flex-col items-center p-6">
 
-      {/* 🔥 TITLE */}
+      {/*TITLE */}
       <h1 className="text-3xl md:text-4xl font-bold text-white mb-6 text-center">
         MCA College Predictor
       </h1>
 
-      {/* 🔥 FORM */}
+      {/* FORM */}
       <Form setResult={setResult} />
 
-      {/* 🔥 EXPECTED RANK */}
+      {/* EXPECTED RANK */}
       {result && (
 
         <div className="mt-6 bg-white px-6 py-4 rounded-2xl shadow-lg text-center w-full max-w-md">
@@ -37,7 +37,7 @@ export default function Home() {
         </div>
       )}
 
-      {/* 🔥 BEST COLLEGE */}
+      {/* BEST COLLEGE */}
       {result?.bestCollege && (
 
         <div className="mt-6 bg-green-500 text-white p-5 rounded-2xl shadow-xl text-center w-full max-w-md">
@@ -63,12 +63,12 @@ export default function Home() {
         </div>
       )}
 
-      {/* 🔥 RESULT CARDS */}
+      {/* RESULT CARDS */}
       {result && (
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8 w-full max-w-6xl">
 
-          {/* 🔥 HIGH */}
+          {/* HIGH */}
           <ResultCard
             title="High Chance"
             data={result.high}
@@ -76,7 +76,7 @@ export default function Home() {
             color="bg-green-100"
           />
 
-          {/* 🔥 MEDIUM */}
+          {/* MEDIUM */}
           <ResultCard
             title="Medium Chance"
             data={result.medium}
@@ -84,7 +84,7 @@ export default function Home() {
             color="bg-yellow-100"
           />
 
-          {/* 🔥 LOW */}
+          {/* LOW */}
           <ResultCard
             title="Low Chance"
             data={result.low}

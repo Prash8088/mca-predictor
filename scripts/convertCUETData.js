@@ -1,8 +1,8 @@
 const fs = require("fs");
 
-console.log("🚀 SCRIPT STARTED");
+console.log("SCRIPT STARTED");
 
-// 🔥 READ FILE
+// READ FILE
 const rawData = fs.readFileSync(
   "./data/cuet_data.json",
   "utf-8"
@@ -15,14 +15,14 @@ console.log(
   data.length
 );
 
-// 🔥 CLEANER
+// CLEANER
 function extractNumber(value) {
 
   if (!value) return 0;
 
   value = value.toString().trim();
 
-  // 🔥 HANDLE 275/400
+  // HANDLE 275/400
   if (value.includes("/")) {
 
     const parts = value.split("/");
@@ -30,13 +30,13 @@ function extractNumber(value) {
     const obtained = Number(parts[0]);
     const total = Number(parts[1]);
 
-    // 🔥 CONVERT TO 300 SCALE
+    // CONVERT TO 300 SCALE
     return Math.floor(
       (obtained / total) * 300
     );
   }
 
-  // 🔥 HANDLE %
+  // HANDLE %
   if (value.includes("%")) {
 
     const percent = parseFloat(
@@ -48,7 +48,7 @@ function extractNumber(value) {
     );
   }
 
-  // 🔥 HANDLE "Rank 45"
+  // HANDLE "Rank 45"
   if (
     value.toLowerCase().includes("rank")
   ) {
@@ -58,27 +58,27 @@ function extractNumber(value) {
     );
   }
 
-  // 🔥 NORMAL NUMBER
+  // NORMAL NUMBER
   return Number(value);
 }
 
-// 🔥 SCORE → RANK
+// SCORE → RANK
 function scoreToRank(score) {
 
-  // 🔥 HIGHER SCORE = BETTER RANK
+  // HIGHER SCORE = BETTER RANK
   const rank = Math.floor(
     ((300 - score) / 300) * 4000
   );
 
-  // 🔥 MINIMUM RANK
+  //  MINIMUM RANK
   return rank < 1 ? 1 : rank;
 }
 
-// 🔥 CONVERT
+// CONVERT
 const converted = data.map(
   (item, index) => {
 
-    // 🔥 EXTRACT SCORES
+    // EXTRACT SCORES
     const openingScore =
       extractNumber(
         item.openingRankScore
@@ -89,7 +89,7 @@ const converted = data.map(
         item.closingRankScore
       );
 
-    // 🔥 CONVERT TO RANKS
+    // CONVERT TO RANKS
     const openingRank =
       scoreToRank(openingScore);
 
@@ -118,7 +118,7 @@ const converted = data.map(
         item.category ||
         "General",
 
-      // 🔥 NOW RANK BASED
+      // NOW RANK BASED
       safeRank: openingRank,
 
       avgClosingRank:
@@ -127,7 +127,7 @@ const converted = data.map(
   }
 );
 
-// 🔥 SAVE FILE
+// SAVE FILE
 fs.writeFileSync(
   "./data/cuet_converted.json",
   JSON.stringify(
@@ -138,5 +138,5 @@ fs.writeFileSync(
 );
 
 console.log(
-  "✅ CUET DATA CONVERTED"
+  "CUET DATA CONVERTED"
 );

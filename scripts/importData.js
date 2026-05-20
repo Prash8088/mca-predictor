@@ -4,9 +4,9 @@ const serviceAccount = require(
   "../lib/serviceAccountKey.json"
 );
 
-// 🔥 LOAD NEW JSON
+// 🔥 LOAD JSON
 const data = require(
-  "../data/mah_colleges.json"
+  "../data/cuet_converted.json"
 );
 
 admin.initializeApp({
@@ -19,31 +19,59 @@ const db = admin.firestore();
 
 async function importData() {
 
+  let success = 0;
+  let failed = 0;
+
   for (const college of data) {
 
     try {
 
+      // 🔥 UNIQUE DOCUMENT ID
+      const uniqueId =
+
+        `${college.collegeId}_` +
+
+        `${college.category}_` +
+
+        `${college.safeRank}_` +
+
+        `${college.avgClosingRank}`;
+
       await db
         .collection("college_cutoffs")
-        .doc(college.collegeId)
+        .doc(uniqueId)
         .set(college);
 
       console.log(
-        "Added/Updated:",
+        "✅ Added:",
         college.collegeName
       );
+
+      success++;
 
     } catch (err) {
 
       console.log(
-        "Error:",
+        "❌ Error:",
         college.collegeName
       );
+
+      failed++;
     }
   }
 
   console.log(
-    "✅ All data imported successfully!"
+    "\n🎯 IMPORT FINISHED"
+  );
+
+  console.log(
+    "✅ Success:",
+    success
+  );
+
+  console.log(
+    "❌ Failed:",
+    failed
   );
 }
 

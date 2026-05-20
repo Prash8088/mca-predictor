@@ -1,0 +1,3046 @@
+[
+  { 
+    "collegeId":"AU001",
+    "collegeName":"Assam University, Silchar",
+    "exam":"CUET-PG",
+    "category":"General",
+    "safeRank":4500,
+    "avgClosingRank":7000 
+  },
+  { 
+    "collegeId":"AU001",
+    "collegeName":"Assam University, Silchar",
+    "exam":"CUET-PG",
+    "category":"OBC",
+    "safeRank":7000,
+    "avgClosingRank":10000 
+  },
+  { 
+    "collegeId":"AU001",
+    "collegeName":"Assam University, Silchar",
+    "exam":"CUET-PG",
+    "category":"SC",
+    "safeRank":12000,
+    "avgClosingRank":17000 
+  },
+  { 
+    "collegeId":"AU001",
+    "collegeName":"Assam University, Silchar",
+    "exam":"CUET-PG",
+    "category":"ST",
+    "safeRank":17000,
+    "avgClosingRank":22000 
+  },
+
+  { 
+    "collegeId":"BBAU001",
+    "collegeName":"Babasaheb Bhimrao Ambedkar University, Lucknow",
+    "exam":"CUET-PG",
+    "category":"General",
+    "safeRank":2500,
+    "avgClosingRank":4500 
+  },      
+  { 
+    "collegeId":"BBAU001",
+    "collegeName":"Babasaheb Bhimrao Ambedkar University, Lucknow",
+    "exam":"CUET-PG",
+    "category":"OBC",
+    "safeRank":4500,
+    "avgClosingRank":7000 
+  },
+  { 
+    "collegeId":"BBAU001",
+    "collegeName":"Babasaheb Bhimrao Ambedkar University, Lucknow",
+    "exam":"CUET-PG",
+    "category":"SC",
+    "safeRank":9000,
+    "avgClosingRank":13000 
+  },
+  { 
+    "collegeId":"BBAU001",
+    "collegeName":"Babasaheb Bhimrao Ambedkar University, Lucknow",
+    "exam":"CUET-PG",
+    "category":"ST",
+    "safeRank":13000,
+    "avgClosingRank":18000 
+  },
+
+  { 
+    "collegeId":"BHU001",
+    "collegeName":"Banaras Hindu University",
+    "exam":"CUET-PG",
+    "category":"General",
+    "safeRank":400,
+    "avgClosingRank":900 
+  },
+  { 
+    "collegeId":"BHU001",
+    "collegeName":"Banaras Hindu University",
+    "exam":"CUET-PG",
+    "category":"OBC",
+    "safeRank":1000,
+    "avgClosingRank":1800 
+  },
+  { 
+    "collegeId":"BHU001",
+    "collegeName":"Banaras Hindu University",
+    "exam":"CUET-PG",
+    "category":"SC",
+    "safeRank":3500,
+    "avgClosingRank":5500 
+  },
+  { 
+    "collegeId":"BHU001",
+    "collegeName":"Banaras Hindu University",
+    "exam":"CUET-PG",
+    "category":"ST",
+    "safeRank":6000,
+    "avgClosingRank":9000 
+  },
+
+  { 
+    "collegeId":"CUAP001",
+    "collegeName":"Central University of Andhra Pradesh",
+    "exam":"CUET-PG",
+    "category":"General",
+    "safeRank":5000,
+    "avgClosingRank":8000 
+  },
+  { 
+    "collegeId":"CUAP001",
+    "collegeName":"Central University of Andhra Pradesh",
+    "exam":"CUET-PG",
+    "category":"OBC",
+    "safeRank":8000,
+    "avgClosingRank":11000 
+  },
+  { 
+    "collegeId":"CUAP001",
+    "collegeName":"Central University of Andhra Pradesh",
+    "exam":"CUET-PG",
+    "category":"SC",
+    "safeRank":13000,
+    "avgClosingRank":18000 
+  },
+  { 
+    "collegeId":"CUAP001",
+    "collegeName":"Central University of Andhra Pradesh",
+    "exam":"CUET-PG",
+    "category":"ST",
+    "safeRank":18000,
+    "avgClosingRank":24000 
+  },
+
+  { 
+    "collegeId":"CUH001",
+    "collegeName":"Central University of Haryana",
+    "exam":"CUET-PG",
+    "category":"General",
+    "safeRank":1800,
+    "avgClosingRank":3500 
+  },
+
+  { 
+    "collegeId":"CUH001",
+    "collegeName":"Central University of Haryana",
+    "exam":"CUET-PG",
+    "category":"OBC",
+    "safeRank":3500,
+    "avgClosingRank":6000 
+  },
+
+  { 
+    "collegeId":"CUH001",
+    "collegeName":"Central University of Haryana",
+    "exam":"CUET-PG",
+    "category":"SC",
+    "safeRank":7000,
+    "avgClosingRank":11000 
+  },
+
+  { 
+    "collegeId":"CUH001",
+    "collegeName":"Central University of Haryana",
+    "exam":"CUET-PG",
+    "category":"ST",
+    "safeRank":11000,
+    "avgClosingRank":15000
+  },
+
+  { 
+    "collegeId":"CUHP001",
+    "collegeName":"Central University of Himachal Pradesh",
+    "exam":"CUET-PG",
+    "category":"General",
+    "safeRank":4200,
+    "avgClosingRank":6800 
+  },
+
+  { 
+    "collegeId":"CUHP001",
+    "collegeName":"Central University of Himachal Pradesh",
+    "exam":"CUET-PG",
+    "category":"OBC",
+    "safeRank":7200,
+    "avgClosingRank":10500 
+  },
+  { 
+    "collegeId":"CUHP001",
+    "collegeName":"Central University of Himachal Pradesh",
+    "exam":"CUET-PG",
+    "category":"SC",
+    "safeRank":12500,
+    "avgClosingRank":17500 
+  },
+  { 
+    "collegeId":"CUHP001",
+    "collegeName":"Central University of Himachal Pradesh",
+    "exam":"CUET-PG",
+    "category":"ST",
+    "safeRank":17500,
+    "avgClosingRank":22500 
+  },
+
+  { 
+    "collegeId":"CUK001",
+    "collegeName":"Central University of Karnataka",
+    "exam":"CUET-PG",
+    "category":"General",
+    "safeRank":3000,
+    "avgClosingRank":5000 
+  },
+  { 
+    "collegeId":"CUK001",
+    "collegeName":"Central University of Karnataka",
+    "exam":"CUET-PG",
+    "category":"OBC",
+    "safeRank":5000,
+    "avgClosingRank":8000 
+  },
+  { 
+    "collegeId":"CUK001",
+    "collegeName":"Central University of Karnataka",
+    "exam":"CUET-PG",
+    "category":"SC",
+    "safeRank":10000,
+    "avgClosingRank":14000 
+  },
+  { 
+    "collegeId":"CUK001",
+    "collegeName":"Central University of Karnataka",
+    "exam":"CUET-PG",
+    "category":"ST",
+    "safeRank":14000,
+    "avgClosingRank":19000 
+  },
+
+  { 
+    "collegeId":"DHSGSU001",
+    "collegeName":"Dr. Harisingh Gour Vishwavidyalaya",
+    "exam":"CUET-PG",
+    "category":"General",
+    "safeRank":4000,
+    "avgClosingRank":6500 
+  },
+  { 
+    "collegeId":"DHSGSU001",
+    "collegeName":"Dr. Harisingh Gour Vishwavidyalaya",
+    "exam":"CUET-PG",
+    "category":"OBC",
+    "safeRank":7000,
+    "avgClosingRank":10000 
+  },
+  { 
+    "collegeId":"DHSGSU001",
+    "collegeName":"Dr. Harisingh Gour Vishwavidyalaya",
+    "exam":"CUET-PG",
+    "category":"SC",
+    "safeRank":12000,
+    "avgClosingRank":17000 
+  },
+  { 
+    "collegeId":"DHSGSU001",
+    "collegeName":"Dr. Harisingh Gour Vishwavidyalaya",
+    "exam":"CUET-PG",
+    "category":"ST",
+    "safeRank":17000,
+    "avgClosingRank":22000 
+  },
+
+  { 
+    "collegeId":"GGV001",
+    "collegeName":"Guru Ghasidas Vishwavidyalaya, Chhattisgarh",
+    "exam":"CUET-PG",
+    "category":"General",
+    "safeRank":3500,
+    "avgClosingRank":6000 
+  },
+
+  { 
+    "collegeId":"GGV001",
+    "collegeName":"Guru Ghasidas Vishwavidyalaya, Chhattisgarh",
+    "exam":"CUET-PG",
+    "category":"OBC",
+    "safeRank":6000,
+    "avgClosingRank":9000 
+  },
+  { 
+    "collegeId":"GGV001",
+    "collegeName":"Guru Ghasidas Vishwavidyalaya, Chhattisgarh",
+    "exam":"CUET-PG",
+    "category":"SC",
+    "safeRank":11000,
+    "avgClosingRank":15000 
+  },
+  { 
+    "collegeId":"GGV001",
+    "collegeName":"Guru Ghasidas Vishwavidyalaya, Chhattisgarh",
+    "exam":"CUET-PG",
+    "category":"ST",
+    "safeRank":15000,
+    "avgClosingRank":20000 
+  },
+
+  { 
+    "collegeId":"IGNTU001",
+    "collegeName":"Indira Gandhi National Tribal University, Amarkantak",
+    "exam":"CUET-PG",
+    "category":"General",
+    "safeRank":6000,
+    "avgClosingRank":9000 
+  },
+  { 
+    "collegeId":"IGNTU001",
+    "collegeName":"Indira Gandhi National Tribal University, Amarkantak",
+    "exam":"CUET-PG",
+    "category":"OBC",
+    "safeRank":9000,
+    "avgClosingRank":13000 
+  },
+
+  { 
+    "collegeId":"IGNTU001",
+    "collegeName":"Indira Gandhi National Tribal University, Amarkantak",
+    "exam":"CUET-PG",
+    "category":"SC",
+    "safeRank":15000,
+    "avgClosingRank":20000 
+  },
+  { 
+    "collegeId":"IGNTU001",
+    "collegeName":"Indira Gandhi National Tribal University, Amarkantak",
+    "exam":"CUET-PG",
+    "category":"ST",
+    "safeRank":20000,
+    "avgClosingRank":26000 
+  },
+
+  { 
+    "collegeId":"JNU001",
+    "collegeName":"Jawaharlal Nehru University",
+    "exam":"CUET-PG",
+    "category":"General",
+    "safeRank":120,
+    "avgClosingRank":250 
+  },
+  { 
+    "collegeId":"JNU001",
+    "collegeName":"Jawaharlal Nehru University",
+    "exam":"CUET-PG",
+    "category":"OBC",
+    "safeRank":350,
+    "avgClosingRank":700 
+  },
+  { 
+    "collegeId":"JNU001",
+    "collegeName":"Jawaharlal Nehru University",
+    "exam":"CUET-PG",
+    "category":"SC",
+    "safeRank":1200,
+    "avgClosingRank":2200 
+  },
+  { 
+    "collegeId":"JNU001",
+    "collegeName":"Jawaharlal Nehru University",
+    "exam":"CUET-PG",
+    "category":"ST",
+    "safeRank":2500,
+    "avgClosingRank":4000 
+  },
+
+  { 
+    "collegeId":"MGAHV001",
+    "collegeName":"Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya, Wardha",
+    "exam":"CUET-PG",
+    "category":"General",
+    "safeRank":7000,
+    "avgClosingRank":10000 
+  },
+  { 
+    "collegeId":"MGAHV001",
+    "collegeName":"Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya, Wardha",
+    "exam":"CUET-PG",
+    "category":"OBC",
+    "safeRank":10000,
+    "avgClosingRank":14000 
+  },
+  { 
+    "collegeId":"MGAHV001",
+    "collegeName":"Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya, Wardha",
+    "exam":"CUET-PG",
+    "category":"SC",
+    "safeRank":16000,
+    "avgClosingRank":22000 
+  },
+  { 
+    "collegeId":"MGAHV001",
+    "collegeName":"Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya, Wardha",
+    "exam":"CUET-PG",
+    "category":"ST",
+    "safeRank":22000,
+    "avgClosingRank":28000 
+  },
+
+  { 
+    "collegeId":"MU001",
+    "collegeName":"Manipur University",
+    "exam":"CUET-PG",
+    "category":"General",
+    "safeRank":5000,
+    "avgClosingRank":8000 
+  },
+  { 
+    "collegeId":"MU001",
+    "collegeName":"Manipur University",
+    "exam":"CUET-PG",
+    "category":"OBC",
+    "safeRank":8000,
+    "avgClosingRank":11500 
+  },
+  { 
+    "collegeId":"MU001",
+    "collegeName":"Manipur University",
+    "exam":"CUET-PG",
+    "category":"SC",
+    "safeRank":13500,
+    "avgClosingRank":18500 
+  },
+  { 
+    "collegeId":"MU001",
+    "collegeName":"Manipur University",
+    "exam":"CUET-PG",
+    "category":"ST",
+    "safeRank":18500,
+    "avgClosingRank":24000 
+  },
+
+  { 
+    "collegeId":"NEHU001",
+    "collegeName":"North-Eastern Hill University",
+    "exam":"CUET-PG",
+    "category":"General",
+    "safeRank":5500,
+    "avgClosingRank":8500 
+  },
+  { 
+    "collegeId":"NEHU001",
+    "collegeName":"North-Eastern Hill University",
+    "exam":"CUET-PG",
+    "category":"OBC",
+    "safeRank":8500,
+    "avgClosingRank":12000 
+  },
+  { 
+    "collegeId":"NEHU001",
+    "collegeName":"North-Eastern Hill University",
+    "exam":"CUET-PG",
+    "category":"SC",
+    "safeRank":14000,
+    "avgClosingRank":19000 
+  },
+  { 
+    "collegeId":"NEHU001",
+    "collegeName":"North-Eastern Hill University",
+    "exam":"CUET-PG",
+    "category":"ST",
+    "safeRank":19000,
+    "avgClosingRank":24000 
+  },
+
+  { 
+    "collegeId":"PU001",
+    "collegeName":"Pondicherry University",
+    "exam":"CUET-PG",
+    "category":"General",
+    "safeRank":1200,
+    "avgClosingRank":2500 
+  },
+
+  { 
+    "collegeId":"PU001",
+    "collegeName":"Pondicherry University",
+    "exam":"CUET-PG",
+    "category":"OBC",
+    "safeRank":2500,
+    "avgClosingRank":4000 
+  },
+  { 
+    "collegeId":"PU001",
+    "collegeName":"Pondicherry University",
+    "exam":"CUET-PG",
+    "category":"SC",
+    "safeRank":6000,
+    "avgClosingRank":9000 
+  },
+
+  { 
+    "collegeId":"PU001",
+    "collegeName":"Pondicherry University",
+    "exam":"CUET-PG",
+    "category":"ST",
+    "safeRank":9000,
+    "avgClosingRank":13000 
+  },
+
+  { 
+    "collegeId":"RGU001",
+    "collegeName":"Rajiv Gandhi University, Arunachal Pradesh",
+    "exam":"CUET-PG",
+    "category":"General",
+    "safeRank":6000,
+    "avgClosingRank":9000 
+  },
+  { 
+    "collegeId":"RGU001",
+    "collegeName":"Rajiv Gandhi University, Arunachal Pradesh",
+    "exam":"CUET-PG",
+    "category":"OBC",
+    "safeRank":9000,
+    "avgClosingRank":13000 
+  },
+  { 
+    "collegeId":"RGU001",
+    "collegeName":"Rajiv Gandhi University, Arunachal Pradesh",
+    "exam":"CUET-PG",
+    "category":"SC",
+    "safeRank":15000,
+    "avgClosingRank":20000 
+  },
+  { 
+    "collegeId":"RGU001",
+    "collegeName":"Rajiv Gandhi University, Arunachal Pradesh",
+    "exam":"CUET-PG",
+    "category":"ST",
+    "safeRank":20000,
+    "avgClosingRank":26000 
+  },
+
+  { 
+    "collegeId":"SU001",
+    "collegeName":"Sikkim University",
+    "exam":"CUET-PG",
+    "category":"General",
+    "safeRank":5000,
+    "avgClosingRank":8000 
+  },
+  { 
+    "collegeId":"SU001",
+    "collegeName":"Sikkim University",
+    "exam":"CUET-PG",
+    "category":"OBC",
+    "safeRank":8500,
+    "avgClosingRank":12000 
+  },
+  { 
+    "collegeId":"SU001",
+    "collegeName":"Sikkim University",
+    "exam":"CUET-PG",
+    "category":"SC",
+    "safeRank":14000,
+    "avgClosingRank":19000 
+  },
+  { 
+    "collegeId":"SU001",
+    "collegeName":"Sikkim University",
+    "exam":"CUET-PG",
+    "category":"ST",
+    "safeRank":19000,
+    "avgClosingRank":24000 
+  },
+
+  { 
+    "collegeId":"SAU001",
+    "collegeName":"South Asian University",
+    "exam":"CUET-PG",
+    "category":"General",
+    "safeRank":700,
+    "avgClosingRank":1500 
+  },
+
+  {
+    "collegeId":"SAU001",
+    "collegeName":"South Asian University",
+    "exam":"CUET-PG",
+    "category":"OBC",
+    "safeRank":1800,
+    "avgClosingRank":3000 
+  },
+
+  { 
+    "collegeId":"SAU001",
+    "collegeName":"South Asian University",
+    "exam":"CUET-PG",
+    "category":"SC",
+    "safeRank":4500,
+    "avgClosingRank":7000 
+  },
+  { 
+    "collegeId":"SAU001",
+    "collegeName":"South Asian University",
+    "exam":"CUET-PG",
+    "category":"ST",
+    "safeRank":7000,
+    "avgClosingRank":10000 
+  },
+
+  { 
+    "collegeId":"TU001",
+    "collegeName":"Tezpur University",
+    "exam":"CUET-PG",
+    "category":"General",
+    "safeRank":1800,
+    "avgClosingRank":3200 
+  },
+  { 
+    "collegeId":"TU001",
+    "collegeName":"Tezpur University",
+    "exam":"CUET-PG",
+    "category":"OBC",
+    "safeRank":3500,
+    "avgClosingRank":5500 
+  },
+  { 
+    "collegeId":"TU001",
+    "collegeName":"Tezpur University",
+    "exam":"CUET-PG",
+    "category":"SC",
+    "safeRank":7000,
+    "avgClosingRank":11000 
+  },
+
+  { 
+    "collegeId":"TU001",
+    "collegeName":"Tezpur University",
+    "exam":"CUET-PG",
+    "category":"ST",
+    "safeRank":11000,
+    "avgClosingRank":15000 
+  },
+
+  { 
+    "collegeId":"TRU001",
+    "collegeName":"Tripura University",
+    "exam":"CUET-PG",
+    "category":"General",
+    "safeRank":5000,
+    "avgClosingRank":7500 
+  },
+  { 
+    "collegeId":"TRU001",
+    "collegeName":"Tripura University",
+    "exam":"CUET-PG",
+    "category":"OBC",
+    "safeRank":8000,
+    "avgClosingRank":11000 
+  },
+  { 
+    "collegeId":"TRU001",
+    "collegeName":"Tripura University",
+    "exam":"CUET-PG",
+    "category":"SC",
+    "safeRank":13000,
+    "avgClosingRank":18000 
+  },
+  { 
+    "collegeId":"TRU001",
+    "collegeName":"Tripura University",
+    "exam":"CUET-PG",
+    "category":"ST",
+    "safeRank":18000,
+    "avgClosingRank":23000 
+  },
+
+  
+  { 
+    "collegeId":"AU001",
+    "collegeName":"Assam University, Silchar",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":4200,
+    "avgClosingRank":6800 
+  },
+
+  { 
+    "collegeId":"AU001",
+    "collegeName":"Assam University, Silchar",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":6800,
+    "avgClosingRank":9800 
+  },
+
+  { 
+    "collegeId":"AU001",
+    "collegeName":"Assam University, Silchar",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":11500,
+    "avgClosingRank":16500 
+  },
+  { 
+    "collegeId":"AU001",
+    "collegeName":"Assam University, Silchar",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":16500,
+    "avgClosingRank":21500 
+  },
+
+  { 
+    "collegeId":"BBAU001",
+    "collegeName":"Babasaheb Bhimrao Ambedkar University, Lucknow",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":2200,
+    "avgClosingRank":4200 
+  },
+  { 
+    "collegeId":"BBAU001",
+    "collegeName":"Babasaheb Bhimrao Ambedkar University, Lucknow",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":4200,
+    "avgClosingRank":6500 
+  },
+  { 
+    "collegeId":"BBAU001",
+    "collegeName":"Babasaheb Bhimrao Ambedkar University, Lucknow",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":8500,
+    "avgClosingRank":12500 
+  },
+  { 
+    "collegeId":"BBAU001",
+    "collegeName":"Babasaheb Bhimrao Ambedkar University, Lucknow",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":12500,
+    "avgClosingRank":17500 
+  },
+
+  { 
+    "collegeId":"BHU001",
+    "collegeName":"Banaras Hindu University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":300,
+    "avgClosingRank":750 
+  },
+  { 
+    "collegeId":"BHU001",
+    "collegeName":"Banaras Hindu University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":850,
+    "avgClosingRank":1600 
+  },
+  { 
+    "collegeId":"BHU001",
+    "collegeName":"Banaras Hindu University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":3000,
+    "avgClosingRank":5000 
+  },
+  { 
+    "collegeId":"BHU001",
+    "collegeName":"Banaras Hindu University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":5500,
+    "avgClosingRank":8500 
+  },
+
+  { 
+    "collegeId":"CUAP001",
+    "collegeName":"Central University of Andhra Pradesh",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":4700,
+    "avgClosingRank":7600 
+  },
+  { 
+    "collegeId":"CUAP001",
+    "collegeName":"Central University of Andhra Pradesh",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":7600,
+    "avgClosingRank":10800 
+  },
+
+  { 
+    "collegeId":"CUAP001",
+    "collegeName":"Central University of Andhra Pradesh",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":12800,
+    "avgClosingRank":17800 
+  },
+  { 
+    "collegeId":"CUAP001",
+    "collegeName":"Central University of Andhra Pradesh",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":17800,
+    "avgClosingRank":23500 
+  },
+
+  { 
+    "collegeId":"CUH001",
+    "collegeName":"Central University of Haryana",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":1500,
+    "avgClosingRank":3000 
+  },
+  { 
+    "collegeId":"CUH001",
+    "collegeName":"Central University of Haryana",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":3200,
+    "avgClosingRank":5500 
+  },
+  { 
+    "collegeId":"CUH001",
+    "collegeName":"Central University of Haryana",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":6500,
+    "avgClosingRank":10000 
+  },
+
+  { 
+    "collegeId":"CUH001",
+    "collegeName":"Central University of Haryana",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":10000,
+    "avgClosingRank":14500
+  },
+
+  { 
+    "collegeId":"CUHP001",
+    "collegeName":"Central University of Himachal Pradesh",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":3900,
+    "avgClosingRank":6400 
+  },
+
+  { 
+    "collegeId":"CUHP001",
+    "collegeName":"Central University of Himachal Pradesh",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":6900,
+    "avgClosingRank":10000 
+  },
+
+  { 
+    "collegeId":"CUHP001",
+    "collegeName":"Central University of Himachal Pradesh",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":12000,
+    "avgClosingRank":17000 
+  },
+  { 
+    "collegeId":"CUHP001",
+    "collegeName":"Central University of Himachal Pradesh",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":17000,
+    "avgClosingRank":22000 
+  },
+
+  { 
+    "collegeId":"CUK001",
+    "collegeName":"Central University of Karnataka",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":2600,
+    "avgClosingRank":4600 
+  },
+  { 
+    "collegeId":"CUK001",
+    "collegeName":"Central University of Karnataka",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":4700,
+    "avgClosingRank":7600 
+  },
+  { 
+    "collegeId":"CUK001",
+    "collegeName":"Central University of Karnataka",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":9500,
+    "avgClosingRank":13500 
+  },
+
+  { 
+    "collegeId":"CUK001",
+    "collegeName":"Central University of Karnataka",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":13500,
+    "avgClosingRank":18500 
+  },
+
+  { 
+    "collegeId":"DHSGSU001",
+    "collegeName":"Dr. Harisingh Gour Vishwavidyalaya",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":3600,
+    "avgClosingRank":6100 
+  },
+  { 
+    "collegeId":"DHSGSU001",
+    "collegeName":"Dr. Harisingh Gour Vishwavidyalaya",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":6500,
+    "avgClosingRank":9600 
+  },
+  { 
+    "collegeId":"DHSGSU001",
+    "collegeName":"Dr. Harisingh Gour Vishwavidyalaya",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":11500,
+    "avgClosingRank":16500 
+  },
+  { 
+    "collegeId":"DHSGSU001",
+    "collegeName":"Dr. Harisingh Gour Vishwavidyalaya",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":16500,
+    "avgClosingRank":21500 
+  },
+
+  { 
+    "collegeId":"GGV001",
+    "collegeName":"Guru Ghasidas Vishwavidyalaya, Chhattisgarh",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":3200,
+    "avgClosingRank":5600 
+  },
+  { 
+    "collegeId":"GGV001",
+    "collegeName":"Guru Ghasidas Vishwavidyalaya, Chhattisgarh",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":5600,
+    "avgClosingRank":8600 
+  },
+  { 
+    "collegeId":"GGV001",
+    "collegeName":"Guru Ghasidas Vishwavidyalaya, Chhattisgarh",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":10500,
+    "avgClosingRank":14800 
+  },
+  { 
+    "collegeId":"GGV001",
+    "collegeName":"Guru Ghasidas Vishwavidyalaya, Chhattisgarh",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":14800,
+    "avgClosingRank":19800 
+  },
+
+  { 
+    "collegeId":"IGNTU001",
+    "collegeName":"Indira Gandhi National Tribal University, Amarkantak",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":5600,
+    "avgClosingRank":8600 
+  },
+  { 
+    "collegeId":"IGNTU001",
+    "collegeName":"Indira Gandhi National Tribal University, Amarkantak",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":8600,
+    "avgClosingRank":12500 
+  },
+  { 
+    "collegeId":"IGNTU001",
+    "collegeName":"Indira Gandhi National Tribal University, Amarkantak",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":14500,
+    "avgClosingRank":19500 
+  },
+  { 
+    "collegeId":"IGNTU001",
+    "collegeName":"Indira Gandhi National Tribal University, Amarkantak",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":19500,
+    "avgClosingRank":25500 
+  },
+
+  { 
+    "collegeId":"JNU001",
+    "collegeName":"Jawaharlal Nehru University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":90,
+    "avgClosingRank":220 
+  },
+  { 
+    "collegeId":"JNU001",
+    "collegeName":"Jawaharlal Nehru University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":280,
+    "avgClosingRank":620 
+  },
+
+  { 
+    "collegeId":"JNU001",
+    "collegeName":"Jawaharlal Nehru University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":1000,
+    "avgClosingRank":2000 
+  },
+
+  { 
+    "collegeId":"JNU001",
+    "collegeName":"Jawaharlal Nehru University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":2200,
+    "avgClosingRank":3600 
+  },
+
+
+  { 
+    "collegeId":"MGAHV001",
+    "collegeName":"Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya, Wardha",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":6800,
+    "avgClosingRank":9800 
+  },
+  { 
+    "collegeId":"MGAHV001",
+    "collegeName":"Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya, Wardha",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":9800,
+    "avgClosingRank":13800 
+  },
+  { 
+    "collegeId":"MGAHV001",
+    "collegeName":"Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya, Wardha",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":15800,
+    "avgClosingRank":21800 
+  },
+  { 
+    "collegeId":"MGAHV001",
+    "collegeName":"Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya, Wardha",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":21800,
+    "avgClosingRank":27800 
+  },
+
+  { 
+    "collegeId":"MU001",
+    "collegeName":"Manipur University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":4700,
+    "avgClosingRank":7600 
+  },
+
+  { 
+    "collegeId":"MU001",
+    "collegeName":"Manipur University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":7600,
+    "avgClosingRank":11000 
+  },
+  { 
+    "collegeId":"MU001",
+    "collegeName":"Manipur University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":13000,
+    "avgClosingRank":18000 
+  },
+  { 
+    "collegeId":"MU001",
+    "collegeName":"Manipur University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":18000,
+    "avgClosingRank":23500 
+  },
+
+  { 
+    "collegeId":"NEHU001",
+    "collegeName":"North-Eastern Hill University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":5200,
+    "avgClosingRank":8200 
+  },
+  { 
+    "collegeId":"NEHU001",
+    "collegeName":"North-Eastern Hill University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":8200,
+    "avgClosingRank":11800 
+  },
+
+  { 
+    "collegeId":"NEHU001",
+    "collegeName":"North-Eastern Hill University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":13800,
+    "avgClosingRank":18800 
+  },
+
+  { 
+    "collegeId":"NEHU001",
+    "collegeName":"North-Eastern Hill University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":18800,
+    "avgClosingRank":23800 
+  },
+
+  { 
+    "collegeId":"PU001",
+    "collegeName":"Pondicherry University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":1000,
+    "avgClosingRank":2200 
+  },
+
+  { 
+    "collegeId":"PU001",
+    "collegeName":"Pondicherry University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":2200,
+    "avgClosingRank":3800 
+  },
+
+  { 
+    "collegeId":"PU001",
+    "collegeName":"Pondicherry University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":5600,
+    "avgClosingRank":8600 
+  },
+  { 
+    "collegeId":"PU001",
+    "collegeName":"Pondicherry University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":8600,
+    "avgClosingRank":12600 
+  },
+
+  { 
+    "collegeId":"RGU001",
+    "collegeName":"Rajiv Gandhi University, Arunachal Pradesh",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":5600,
+    "avgClosingRank":8600 
+  },
+  { 
+    "collegeId":"RGU001",
+    "collegeName":"Rajiv Gandhi University, Arunachal Pradesh",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":8600,
+    "avgClosingRank":12500 
+  },
+  { 
+    "collegeId":"RGU001",
+    "collegeName":"Rajiv Gandhi University, Arunachal Pradesh",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":14500,
+    "avgClosingRank":19500 
+  },
+
+  { 
+    "collegeId":"RGU001",
+    "collegeName":"Rajiv Gandhi University, Arunachal Pradesh",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":19500,
+    "avgClosingRank":25500
+   },
+
+  { 
+    "collegeId":"SU001",
+    "collegeName":"Sikkim University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":4700,
+    "avgClosingRank":7600 
+  },
+
+  { 
+    "collegeId":"SU001",
+    "collegeName":"Sikkim University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":8200,
+    "avgClosingRank":11800 
+  },
+  { 
+    "collegeId":"SU001",
+    "collegeName":"Sikkim University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":13800,
+    "avgClosingRank":18800 
+  },
+  { 
+    "collegeId":"SU001",
+    "collegeName":"Sikkim University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":18800,
+    "avgClosingRank":23800 
+  },
+
+  { 
+    "collegeId":"SAU001",
+    "collegeName":"South Asian University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":550,
+    "avgClosingRank":1300 
+  },
+  { 
+    "collegeId":"SAU001",
+    "collegeName":"South Asian University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":1500,
+    "avgClosingRank":2700 
+  },
+  { 
+    "collegeId":"SAU001",
+    "collegeName":"South Asian University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":4200,
+    "avgClosingRank":6600 
+  },
+  { 
+    "collegeId":"SAU001",
+    "collegeName":"South Asian University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":6600,
+    "avgClosingRank":9600 
+  },
+
+  { 
+    "collegeId":"TU001",
+    "collegeName":"Tezpur University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":1500,
+    "avgClosingRank":2900 
+  },
+  { 
+    "collegeId":"TU001",
+    "collegeName":"Tezpur University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":3200,
+    "avgClosingRank":5200 
+  },
+  { 
+    "collegeId":"TU001",
+    "collegeName":"Tezpur University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":6600,
+    "avgClosingRank":10600 
+  },
+  { 
+    "collegeId":"TU001",
+    "collegeName":"Tezpur University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":10600,
+    "avgClosingRank":14600 
+  },
+
+  { 
+    "collegeId":"TRU001",
+    "collegeName":"Tripura University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":4700,
+    "avgClosingRank":7200 
+  },
+
+  { 
+    "collegeId":"TRU001",
+    "collegeName":"Tripura University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":7600,
+    "avgClosingRank":10800
+   },
+
+  { 
+    "collegeId":"TRU001",
+    "collegeName":"Tripura University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":12800,
+    "avgClosingRank":17800 
+  },
+
+  { 
+    "collegeId":"TRU001",
+    "collegeName":"Tripura University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":17800,
+    "avgClosingRank":22800 
+  },
+
+
+
+  
+  { 
+    "collegeId":"AU001",
+    "collegeName":"Assam University, Silchar",
+    "exam":"CUET-PG MCA 2026",
+    "category":"General",
+    "safeRank":4000,
+    "avgClosingRank":6500 
+  },
+
+  { 
+    "collegeId":"AU001",
+    "collegeName":"Assam University, Silchar",
+    "exam":"CUET-PG MCA 2026",
+    "category":"OBC",
+    "safeRank":6500,
+    "avgClosingRank":9500 
+  },
+
+  { 
+    "collegeId":"AU001",
+    "collegeName":"Assam University, Silchar",
+    "exam":"CUET-PG MCA 2026",
+    "category":"SC",
+    "safeRank":11000,
+    "avgClosingRank":16000 
+  },
+
+  { 
+    "collegeId":"AU001",
+    "collegeName":"Assam University, Silchar",
+    "exam":"CUET-PG MCA 2026",
+    "category":"ST",
+    "safeRank":16000,
+    "avgClosingRank":21000 
+  },
+
+  { 
+    "collegeId":"BBAU001",
+    "collegeName":"Babasaheb Bhimrao Ambedkar University, Lucknow",
+    "exam":"CUET-PG MCA 2026",
+    "category":"General",
+    "safeRank":2000,
+    "avgClosingRank":4000 
+  },
+
+  { 
+    "collegeId":"BBAU001",
+    "collegeName":"Babasaheb Bhimrao Ambedkar University, Lucknow",
+    "exam":"CUET-PG MCA 2026",
+    "category":"OBC",
+    "safeRank":4000,
+    "avgClosingRank":6200 
+  },
+
+  { 
+    "collegeId":"BBAU001",
+    "collegeName":"Babasaheb Bhimrao Ambedkar University, Lucknow",
+    "exam":"CUET-PG MCA 2026",
+    "category":"SC",
+    "safeRank":8200,
+    "avgClosingRank":12200 
+  },
+
+  { 
+    "collegeId":"BBAU001",
+    "collegeName":"Babasaheb Bhimrao Ambedkar University, Lucknow",
+    "exam":"CUET-PG MCA 2026",
+    "category":"ST",
+    "safeRank":12200,
+    "avgClosingRank":17200 
+  },
+
+  { 
+    "collegeId":"BHU001",
+    "collegeName":"Banaras Hindu University",
+    "exam":"CUET-PG MCA 2026",
+    "category":"General",
+    "safeRank":250,
+    "avgClosingRank":650 
+  },
+
+  { 
+    "collegeId":"BHU001",
+    "collegeName":"Banaras Hindu University",
+    "exam":"CUET-PG MCA 2026",
+    "category":"OBC",
+    "safeRank":750,
+    "avgClosingRank":1450 
+  },
+
+  { 
+    "collegeId":"BHU001",
+    "collegeName":"Banaras Hindu University",
+    "exam":"CUET-PG MCA 2026",
+    "category":"SC",
+    "safeRank":2700,
+    "avgClosingRank":4700 
+  },
+
+  { 
+    "collegeId":"BHU001",
+    "collegeName":"Banaras Hindu University",
+    "exam":"CUET-PG MCA 2026",
+    "category":"ST",
+    "safeRank":5000,
+    "avgClosingRank":8000 
+  },
+
+  { 
+    "collegeId":"CUAP001",
+    "collegeName":"Central University of Andhra Pradesh",
+    "exam":"CUET-PG MCA 2026",
+    "category":"General",
+    "safeRank":4500,
+    "avgClosingRank":7300 
+  },
+
+  { 
+    "collegeId":"CUAP001",
+    "collegeName":"Central University of Andhra Pradesh",
+    "exam":"CUET-PG MCA 2026",
+    "category":"OBC",
+    "safeRank":7300,
+    "avgClosingRank":10400 
+  },
+
+  { 
+    "collegeId":"CUAP001",
+    "collegeName":"Central University of Andhra Pradesh",
+    "exam":"CUET-PG MCA 2026",
+    "category":"SC",
+    "safeRank":12400,
+    "avgClosingRank":17400 
+  },
+
+  { 
+    "collegeId":"CUAP001",
+    "collegeName":"Central University of Andhra Pradesh",
+    "exam":"CUET-PG MCA 2026",
+    "category":"ST",
+    "safeRank":17400,
+    "avgClosingRank":23000 
+  },
+
+  { 
+    "collegeId":"CUH001",
+    "collegeName":"Central University of Haryana",
+    "exam":"CUET-PG MCA 2026",
+    "category":"General",
+    "safeRank":1300,
+    "avgClosingRank":2700 
+  },
+
+  { 
+    "collegeId":"CUH001",
+    "collegeName":"Central University of Haryana",
+    "exam":"CUET-PG MCA 2026",
+    "category":"OBC",
+    "safeRank":2900,
+    "avgClosingRank":5100 
+  },
+
+  { 
+    "collegeId":"CUH001",
+    "collegeName":"Central University of Haryana",
+    "exam":"CUET-PG MCA 2026",
+    "category":"SC",
+    "safeRank":6200,
+    "avgClosingRank":9600 
+  },
+
+  { 
+    "collegeId":"CUH001",
+    "collegeName":"Central University of Haryana",
+    "exam":"CUET-PG MCA 2026",
+    "category":"ST",
+    "safeRank":9600,
+    "avgClosingRank":14000 
+  },
+
+  { 
+    "collegeId":"CUHP001",
+    "collegeName":"Central University of Himachal Pradesh",
+    "exam":"CUET-PG MCA 2026",
+    "category":"General",
+    "safeRank":3600,
+    "avgClosingRank":6100 
+  },
+
+  { 
+    "collegeId":"CUHP001",
+    "collegeName":"Central University of Himachal Pradesh",
+    "exam":"CUET-PG MCA 2026",
+    "category":"OBC",
+    "safeRank":6500,
+    "avgClosingRank":9600 
+  },
+
+  { 
+    "collegeId":"CUHP001",
+    "collegeName":"Central University of Himachal Pradesh",
+    "exam":"CUET-PG MCA 2026",
+    "category":"SC",
+    "safeRank":11600,
+    "avgClosingRank":16600 
+  },
+
+  { 
+    "collegeId":"CUHP001",
+    "collegeName":"Central University of Himachal Pradesh",
+    "exam":"CUET-PG MCA 2026",
+    "category":"ST",
+    "safeRank":16600,
+    "avgClosingRank":21600 
+  },
+
+  { 
+    "collegeId":"CUK001",
+    "collegeName":"Central University of Karnataka",
+    "exam":"CUET-PG MCA 2026",
+    "category":"General",
+    "safeRank":2400,
+    "avgClosingRank":4300 
+  },
+
+  { 
+    "collegeId":"CUK001",
+    "collegeName":"Central University of Karnataka",
+    "exam":"CUET-PG MCA 2026",
+    "category":"OBC",
+    "safeRank":4400,
+    "avgClosingRank":7200 
+  },
+
+  { 
+    "collegeId":"CUK001",
+    "collegeName":"Central University of Karnataka",
+    "exam":"CUET-PG MCA 2026",
+    "category":"SC",
+    "safeRank":9200,
+    "avgClosingRank":13200 
+  },
+
+  { 
+    "collegeId":"CUK001",
+    "collegeName":"Central University of Karnataka",
+    "exam":"CUET-PG MCA 2026",
+    "category":"ST",
+    "safeRank":13200,
+    "avgClosingRank":18200 
+  },
+
+  { 
+    "collegeId":"DHSGSU001",
+    "collegeName":"Dr. Harisingh Gour Vishwavidyalaya",
+    "exam":"CUET-PG MCA 2026",
+    "category":"General",
+    "safeRank":3300,
+    "avgClosingRank":5800 
+  },
+  { 
+    "collegeId":"DHSGSU001",
+    "collegeName":"Dr. Harisingh Gour Vishwavidyalaya",
+    "exam":"CUET-PG MCA 2026",
+    "category":"OBC",
+    "safeRank":6200,
+    "avgClosingRank":9200 
+  },
+  { 
+    "collegeId":"DHSGSU001",
+    "collegeName":"Dr. Harisingh Gour Vishwavidyalaya",
+    "exam":"CUET-PG MCA 2026",
+    "category":"SC",
+    "safeRank":11200,
+    "avgClosingRank":16200 
+  },
+  { 
+    "collegeId":"DHSGSU001",
+    "collegeName":"Dr. Harisingh Gour Vishwavidyalaya",
+    "exam":"CUET-PG MCA 2026",
+    "category":"ST",
+    "safeRank":16200,
+    "avgClosingRank":21200 
+  },
+
+  { 
+    "collegeId":"GGV001",
+    "collegeName":"Guru Ghasidas Vishwavidyalaya, Chhattisgarh",
+    "exam":"CUET-PG MCA 2026",
+    "category":"General",
+    "safeRank":2900,
+    "avgClosingRank":5300 
+  },
+  { 
+    "collegeId":"GGV001",
+    "collegeName":"Guru Ghasidas Vishwavidyalaya, Chhattisgarh",
+    "exam":"CUET-PG MCA 2026",
+    "category":"OBC",
+    "safeRank":5300,
+    "avgClosingRank":8200 
+  },
+  { 
+    "collegeId":"GGV001",
+    "collegeName":"Guru Ghasidas Vishwavidyalaya, Chhattisgarh",
+    "exam":"CUET-PG MCA 2026",
+    "category":"SC",
+    "safeRank":10200,
+    "avgClosingRank":14500 
+  },
+  { 
+    "collegeId":"GGV001",
+    "collegeName":"Guru Ghasidas Vishwavidyalaya, Chhattisgarh",
+    "exam":"CUET-PG MCA 2026",
+    "category":"ST",
+    "safeRank":14500,
+    "avgClosingRank":19500 
+  },
+
+  { 
+    "collegeId":"IGNTU001",
+    "collegeName":"Indira Gandhi National Tribal University, Amarkantak",
+    "exam":"CUET-PG MCA 2026",
+    "category":"General",
+    "safeRank":5300,
+    "avgClosingRank":8300 
+  },
+
+  { 
+    "collegeId":"IGNTU001",
+    "collegeName":"Indira Gandhi National Tribal University, Amarkantak",
+    "exam":"CUET-PG MCA 2026",
+    "category":"OBC",
+    "safeRank":8300,
+    "avgClosingRank":12100 
+  },
+
+  { 
+    "collegeId":"IGNTU001",
+    "collegeName":"Indira Gandhi National Tribal University, Amarkantak",
+    "exam":"CUET-PG MCA 2026",
+    "category":"SC",
+    "safeRank":14100,
+    "avgClosingRank":19100 
+  },
+
+  { 
+    "collegeId":"IGNTU001",
+    "collegeName":"Indira Gandhi National Tribal University, Amarkantak",
+    "exam":"CUET-PG MCA 2026",
+    "category":"ST",
+    "safeRank":19100,
+    "avgClosingRank":25100 
+  },
+
+
+
+
+  
+  { 
+    "collegeId":"GGSIPU001",
+    "collegeName":"Guru Gobind Singh Indraprastha University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"General",
+    "safeRank":900,
+    "avgClosingRank":1800 
+  },
+
+  { 
+    "collegeId":"GGSIPU001",
+    "collegeName":"Guru Gobind Singh Indraprastha University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"OBC",
+    "safeRank":1800,
+    "avgClosingRank":3200 
+  },
+  { 
+    "collegeId":"GGSIPU001",
+    "collegeName":"Guru Gobind Singh Indraprastha University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"SC",
+    "safeRank":5000,
+    "avgClosingRank":8500 
+  },
+  { 
+    "collegeId":"GGSIPU001",
+    "collegeName":"Guru Gobind Singh Indraprastha University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"ST",
+    "safeRank":8500,
+    "avgClosingRank":12500 
+  },
+
+  { 
+    "collegeId":"LU001",
+    "collegeName":"University of Lucknow",
+    "exam":"CUET-PG MCA 2024",
+    "category":"General",
+    "safeRank":3500,
+    "avgClosingRank":6000 
+  },
+  { 
+    "collegeId":"LU001",
+    "collegeName":"University of Lucknow",
+    "exam":"CUET-PG MCA 2024",
+    "category":"OBC",
+    "safeRank":6000,
+    "avgClosingRank":9000 
+    },
+
+  {
+     "collegeId":"LU001",
+     "collegeName":"University of Lucknow",
+     "exam":"CUET-PG MCA 2024",
+     "category":"SC",
+     "safeRank":11000,
+     "avgClosingRank":15000 
+    },
+
+  { 
+    "collegeId":"LU001",
+    "collegeName":"University of Lucknow",
+    "exam":"CUET-PG MCA 2024",
+    "category":"ST",
+    "safeRank":15000,
+    "avgClosingRank":21000 
+  },
+
+  { 
+    "collegeId":"MBBU001",
+    "collegeName":"Maharaja Bir Bikram University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"General",
+    "safeRank":6500,
+    "avgClosingRank":9500 
+  },
+  { 
+    "collegeId":"MBBU001",
+    "collegeName":"Maharaja Bir Bikram University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"OBC",
+    "safeRank":9500,
+    "avgClosingRank":13500 
+  },
+  { 
+    "collegeId":"MBBU001",
+    "collegeName":"Maharaja Bir Bikram University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"SC",
+    "safeRank":15500,
+    "avgClosingRank":20500 
+  },
+  { 
+    "collegeId":"MBBU001",
+    "collegeName":"Maharaja Bir Bikram University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"ST",
+    "safeRank":20500,
+    "avgClosingRank":26500 
+  },
+
+  { 
+    "collegeId":"CLUJ001",
+    "collegeName":"Cluster University of Jammu",
+    "exam":"CUET-PG MCA 2024",
+    "category":"General",
+    "safeRank":5200,
+    "avgClosingRank":8200 
+  },
+  { 
+    "collegeId":"CLUJ001",
+    "collegeName":"Cluster University of Jammu",
+    "exam":"CUET-PG MCA 2024",
+    "category":"OBC",
+    "safeRank":8200,
+    "avgClosingRank":11800 
+  },
+
+  { 
+    "collegeId":"CLUJ001",
+    "collegeName":"Cluster University of Jammu",
+    "exam":"CUET-PG MCA 2024",
+    "category":"SC",
+    "safeRank":13800,
+    "avgClosingRank":18800 
+  },
+
+  { 
+    "collegeId":"CLUJ001",
+    "collegeName":"Cluster University of Jammu",
+    "exam":"CUET-PG MCA 2024",
+    "category":"ST",
+    "safeRank":18800,
+    "avgClosingRank":24800 
+  },
+
+  { 
+    "collegeId":"RMLAU001",
+    "collegeName":"Dr. Ram Manohar Lohia Avadh University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"General",
+    "safeRank":4800,
+    "avgClosingRank":7600 
+  },
+  { 
+    "collegeId":"RMLAU001",
+    "collegeName":"Dr. Ram Manohar Lohia Avadh University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"OBC",
+    "safeRank":7600,
+    "avgClosingRank":10800 
+  },
+  { 
+    "collegeId":"RMLAU001",
+    "collegeName":"Dr. Ram Manohar Lohia Avadh University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"SC",
+    "safeRank":12800,
+    "avgClosingRank":17800 
+  },
+  { 
+    "collegeId":"RMLAU001",
+    "collegeName":"Dr. Ram Manohar Lohia Avadh University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"ST",
+    "safeRank":17800,
+    "avgClosingRank":23800 
+  },
+
+  { 
+    "collegeId":"VU001",
+    "collegeName":"Vikram University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"General",
+    "safeRank":5400,
+    "avgClosingRank":8400 
+  },
+  { 
+    "collegeId":"VU001",
+    "collegeName":"Vikram University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"OBC",
+    "safeRank":8400,
+    "avgClosingRank":12000 
+  },
+  { 
+    "collegeId":"VU001",
+    "collegeName":"Vikram University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"SC",
+    "safeRank":14000,
+    "avgClosingRank":19000 
+  },
+  { 
+    "collegeId":"VU001",
+    "collegeName":"Vikram University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"ST",
+    "safeRank":19000,
+    "avgClosingRank":25000 
+  },
+
+  { 
+    "collegeId":"MGKV001",
+    "collegeName":"Mahatma Gandhi Kashi Vidyapith",
+    "exam":"CUET-PG MCA 2024",
+    "category":"General",
+    "safeRank":5000,
+    "avgClosingRank":7900 
+  },
+
+  { 
+    "collegeId":"MGKV001",
+    "collegeName":"Mahatma Gandhi Kashi Vidyapith",
+    "exam":"CUET-PG MCA 2024",
+    "category":"OBC",
+    "safeRank":7900,
+    "avgClosingRank":11200 
+  },
+
+  { 
+    "collegeId":"MGKV001",
+    "collegeName":"Mahatma Gandhi Kashi Vidyapith",
+    "exam":"CUET-PG MCA 2024",
+    "category":"SC",
+    "safeRank":13200,
+    "avgClosingRank":18200 
+  },
+
+  { 
+    "collegeId":"MGKV001",
+    "collegeName":"Mahatma Gandhi Kashi Vidyapith",
+    "exam":"CUET-PG MCA 2024",
+    "category":"ST",
+    "safeRank":18200,
+    "avgClosingRank":24200 
+   },
+
+  { 
+    "collegeId":"SPU001",
+    "collegeName":"Sardar Patel University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"General",
+    "safeRank":4200,
+    "avgClosingRank":6900 
+  },
+  { 
+    "collegeId":"SPU001",
+    "collegeName":"Sardar Patel University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"OBC",
+    "safeRank":6900,
+    "avgClosingRank":10000 
+  },
+  { 
+    "collegeId":"SPU001",
+    "collegeName":"Sardar Patel University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"SC",
+    "safeRank":12000,
+    "avgClosingRank":17000 
+  },
+  { 
+    "collegeId":"SPU001",
+    "collegeName":"Sardar Patel University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"ST",
+    "safeRank":17000,
+    "avgClosingRank":22500 
+  },
+
+  { 
+    "collegeId":"HNBGU001",
+    "collegeName":"Hemvati Nandan Bahuguna Garhwal University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"General",
+    "safeRank":3900,
+    "avgClosingRank":6500 
+  },
+
+  { 
+    "collegeId":"HNBGU001",
+    "collegeName":"Hemvati Nandan Bahuguna Garhwal University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"OBC",
+    "safeRank":6500,
+    "avgClosingRank":9600 
+  },
+
+  { 
+    "collegeId":"HNBGU001",
+    "collegeName":"Hemvati Nandan Bahuguna Garhwal University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"SC",
+    "safeRank":11600,
+    "avgClosingRank":16600 
+  },
+  { 
+    "collegeId":"HNBGU001",
+    "collegeName":"Hemvati Nandan Bahuguna Garhwal University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"ST",
+    "safeRank":16600,
+    "avgClosingRank":22000 
+  },
+
+  { 
+    "collegeId":"DAVV001",
+    "collegeName":"Devi Ahilya Vishwavidyalaya",
+    "exam":"CUET-PG MCA 2024",
+    "category":"General",
+    "safeRank":2200,
+    "avgClosingRank":4200 
+  },
+  { 
+    "collegeId":"DAVV001",
+    "collegeName":"Devi Ahilya Vishwavidyalaya",
+    "exam":"CUET-PG MCA 2024",
+    "category":"OBC",
+    "safeRank":4200,
+    "avgClosingRank":7000 
+  },
+  { 
+    "collegeId":"DAVV001",
+    "collegeName":"Devi Ahilya Vishwavidyalaya",
+    "exam":"CUET-PG MCA 2024",
+    "category":"SC",
+    "safeRank":9000,
+    "avgClosingRank":13000 
+  },
+  { 
+    "collegeId":"DAVV001",
+    "collegeName":"Devi Ahilya Vishwavidyalaya",
+    "exam":"CUET-PG MCA 2024",
+    "category":"ST",
+    "safeRank":13000,
+    "avgClosingRank":18500 
+  },
+
+
+  { 
+    "collegeId":"GU001",
+    "collegeName":"Galgotias University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"General",
+    "safeRank":8500,
+    "avgClosingRank":14000 
+  },
+  { 
+    "collegeId":"GU001",
+    "collegeName":"Galgotias University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"OBC",
+    "safeRank":14000,
+    "avgClosingRank":20000 
+  },
+  { 
+    "collegeId":"GU001",
+    "collegeName":"Galgotias University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"SC",
+    "safeRank":22000,
+    "avgClosingRank":30000 
+  },
+  { 
+    "collegeId":"GU001",
+    "collegeName":"Galgotias University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"ST",
+    "safeRank":30000,
+    "avgClosingRank":38000 
+  },
+
+  { 
+    "collegeId":"BU001",
+    "collegeName":"Bennett University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"General",
+    "safeRank":9500,
+    "avgClosingRank":15000 
+  },
+
+  { 
+    "collegeId":"BU001",
+    "collegeName":"Bennett University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"OBC",
+    "safeRank":15000,
+    "avgClosingRank":22000 
+  },
+
+  { 
+    "collegeId":"BU001",
+    "collegeName":"Bennett University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"SC",
+    "safeRank":24000,
+    "avgClosingRank":32000 
+  },
+  { 
+    "collegeId":"BU001",
+    "collegeName":"Bennett University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"ST",
+    "safeRank":32000,
+    "avgClosingRank":40000 
+  },
+
+  { 
+    "collegeId":"SU001",
+    "collegeName":"Sharda University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"General",
+    "safeRank":10000,
+    "avgClosingRank":16000 
+  },
+  { 
+    "collegeId":"SU001",
+    "collegeName":"Sharda University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"OBC",
+    "safeRank":16000,
+    "avgClosingRank":23000 
+  },
+  { 
+    "collegeId":"SU001",
+    "collegeName":"Sharda University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"SC",
+    "safeRank":25000,
+    "avgClosingRank":33000 
+  },
+  { 
+    "collegeId":"SU001",
+    "collegeName":"Sharda University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"ST",
+    "safeRank":33000,
+    "avgClosingRank":42000 
+  },
+
+  { 
+    "collegeId":"CU001",
+    "collegeName":"Chandigarh University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"General",
+    "safeRank":2800,
+    "avgClosingRank":5500 
+  },
+  { 
+    "collegeId":"CU001",
+    "collegeName":"Chandigarh University"
+    ,"exam":"CUET-PG MCA 2024",
+    "category":"OBC",
+    "safeRank":5500,
+    "avgClosingRank":9000 
+  },
+  { 
+    "collegeId":"CU001",
+    "collegeName":"Chandigarh University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"SC",
+    "safeRank":11000,
+    "avgClosingRank":16000 
+  },
+  { 
+    "collegeId":"CU001",
+    "collegeName":"Chandigarh University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"ST",
+    "safeRank":16000,
+    "avgClosingRank":22000 
+  },
+
+  { 
+    "collegeId":"LPU001",
+    "collegeName":"Lovely Professional University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"General",
+    "safeRank":4500,
+    "avgClosingRank":8200 
+  },
+  { 
+    "collegeId":"LPU001",
+    "collegeName":"Lovely Professional University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"OBC",
+    "safeRank":8200,
+    "avgClosingRank":12500 
+  },
+  { 
+    "collegeId":"LPU001",
+    "collegeName":"Lovely Professional University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"SC",
+    "safeRank":15000,
+    "avgClosingRank":21000 
+  },
+  { 
+    "collegeId":"LPU001",
+    "collegeName":"Lovely Professional University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"ST",
+    "safeRank":21000,
+    "avgClosingRank":28000 
+  },
+
+  { 
+    "collegeId":"AMITY001",
+    "collegeName":"Amity University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"General",
+    "safeRank":9000,
+    "avgClosingRank":14500 
+  },
+
+  { 
+    "collegeId":"AMITY001",
+    "collegeName":"Amity University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"OBC",
+    "safeRank":14500,
+    "avgClosingRank":21000 
+  },
+
+  { 
+    "collegeId":"AMITY001",
+    "collegeName":"Amity University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"SC",
+    "safeRank":23000,
+    "avgClosingRank":31000 
+  },
+
+  { 
+    "collegeId":"AMITY001",
+    "collegeName":"Amity University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"ST",
+    "safeRank":31000,
+    "avgClosingRank":39000 
+  },
+
+  {
+     "collegeId":"UPES001",
+     "collegeName":"UPES",
+     "exam":"CUET-PG MCA 2024",
+     "category":"General",
+     "safeRank":5200,
+     "avgClosingRank":9000 
+  },
+  { 
+    "collegeId":"UPES001",
+    "collegeName":"UPES",
+    
+    "exam":"CUET-PG MCA 2024",
+    "category":"OBC",
+    "safeRank":9000,
+    "avgClosingRank":13500 
+  },
+
+  { 
+    "collegeId":"UPES001",
+    "collegeName":"UPES",
+    "exam":"CUET-PG MCA 2024",
+    "category":"SC",
+    "safeRank":16000,
+    "avgClosingRank":22500 
+  },
+
+  { 
+    "collegeId":"UPES001",
+    "collegeName":"UPES",
+    "exam":"CUET-PG MCA 2024",
+    "category":"ST",
+    "safeRank":22500,
+    "avgClosingRank":29500 
+  },
+
+  { 
+    "collegeId":"SRM001",
+    "collegeName":"SRM Institute of Science and Technology",
+    "exam":"CUET-PG MCA 2024",
+    "category":"General",
+    "safeRank":3800,
+    "avgClosingRank":7200 
+  },
+
+  { 
+    "collegeId":"SRM001",
+    "collegeName":"SRM Institute of Science and Technology",
+    "exam":"CUET-PG MCA 2024",
+    "category":"OBC",
+    "safeRank":7200,
+    "avgClosingRank":11000 
+  },
+
+  { 
+    "collegeId":"SRM001",
+    "collegeName":"SRM Institute of Science and Technology",
+    "exam":"CUET-PG MCA 2024",
+    "category":"SC",
+    "safeRank":13500,
+    "avgClosingRank":19000 
+  },
+
+  { 
+    "collegeId":"SRM001",
+    "collegeName":"SRM Institute of Science and Technology",
+    "exam":"CUET-PG MCA 2024",
+    "category":"ST",
+    "safeRank":19000,
+    "avgClosingRank":25500 
+  },
+
+  { 
+    "collegeId":"JAIN001",
+    "collegeName":"Jain University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"General",
+    "safeRank":6200,
+    "avgClosingRank":10200 
+  },
+  { 
+    "collegeId":"JAIN001",
+    "collegeName":"Jain University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"OBC",
+    "safeRank":10200,
+    "avgClosingRank":15000 
+  },
+  { 
+    "collegeId":"JAIN001",
+    "collegeName":"Jain University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"SC",
+    "safeRank":17500,
+    "avgClosingRank":24000 
+  },
+  { 
+    "collegeId":"JAIN001",
+    "collegeName":"Jain University",
+    "exam":"CUET-PG MCA 2024",
+    "category":"ST",
+    "safeRank":24000,
+    "avgClosingRank":31500 
+  },
+
+  { 
+    "collegeId":"MUJ001",
+    "collegeName":"Manipal University Jaipur",
+    "exam":"CUET-PG MCA 2024",
+    "category":"General",
+    "safeRank":4800,
+    "avgClosingRank":8500 
+  },
+  { 
+    "collegeId":"MUJ001",
+    "collegeName":"Manipal University Jaipur",
+    "exam":"CUET-PG MCA 2024",
+    "category":"OBC",
+    "safeRank":8500,
+    "avgClosingRank":12800 
+  },
+  { 
+    "collegeId":"MUJ001",
+    "collegeName":"Manipal University Jaipur",
+    "exam":"CUET-PG MCA 2024",
+    "category":"SC",
+    "safeRank":15200,
+    "avgClosingRank":21500 
+  },
+  { 
+    "collegeId":"MUJ001",
+    "collegeName":"Manipal University Jaipur",
+    "exam":"CUET-PG MCA 2024",
+    "category":"ST",
+    "safeRank":21500,
+    "avgClosingRank":28500 
+  },
+
+
+  
+  { 
+    "collegeId":"GGSIPU001",
+    "collegeName":"Guru Gobind Singh Indraprastha University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":750,
+    "avgClosingRank":1600 
+  },
+
+  { 
+    "collegeId":"GGSIPU001",
+    "collegeName":"Guru Gobind Singh Indraprastha University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":1600,
+    "avgClosingRank":2900 
+  },
+  { 
+    "collegeId":"GGSIPU001",
+    "collegeName":"Guru Gobind Singh Indraprastha University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":4500,
+    "avgClosingRank":8000 
+  },
+  { 
+    "collegeId":"GGSIPU001",
+    "collegeName":"Guru Gobind Singh Indraprastha University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":8000,
+    "avgClosingRank":12000 
+  },
+
+  { 
+    "collegeId":"LU001",
+    "collegeName":"University of Lucknow",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":3200,
+    "avgClosingRank":5600 
+  },
+  { 
+    "collegeId":"LU001",
+    "collegeName":"University of Lucknow",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":5600,
+    "avgClosingRank":8600 
+  },
+  { 
+    "collegeId":"LU001",
+    "collegeName":"University of Lucknow",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":10600,
+    "avgClosingRank":14600 
+  },
+  { 
+    "collegeId":"LU001",
+    "collegeName":"University of Lucknow",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":14600,
+    "avgClosingRank":20600 
+  },
+
+  { 
+    "collegeId":"MBBU001",
+    "collegeName":"Maharaja Bir Bikram University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":6200,
+    "avgClosingRank":9200 
+  },
+  { 
+    "collegeId":"MBBU001",
+    "collegeName":"Maharaja Bir Bikram University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":9200,
+    "avgClosingRank":13200 
+  },
+  { 
+    "collegeId":"MBBU001",
+    "collegeName":"Maharaja Bir Bikram University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":15200,
+    "avgClosingRank":20200 
+  },
+  { 
+    "collegeId":"MBBU001",
+    "collegeName":"Maharaja Bir Bikram University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":20200,
+    "avgClosingRank":26200 
+  },
+
+  { 
+    "collegeId":"CLUJ001",
+    "collegeName":"Cluster University of Jammu",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General"
+    ,"safeRank":4900,
+    "avgClosingRank":7900 
+  },
+
+  { 
+    "collegeId":"CLUJ001",
+    "collegeName":"Cluster University of Jammu",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":7900,
+    "avgClosingRank":11400 
+  },
+
+  {
+   "collegeId":"CLUJ001",
+   "collegeName":"Cluster University of Jammu",
+   "exam":"CUET-PG MCA 2025",
+   "category":"SC",
+   "safeRank":13400,
+   "avgClosingRank":18400 
+  },
+
+  { 
+    "collegeId":"CLUJ001",
+    "collegeName":"Cluster University of Jammu",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":18400,
+    "avgClosingRank":24400 
+  },
+
+  { 
+    "collegeId":"RMLAU001",
+    "collegeName":"Dr. Ram Manohar Lohia Avadh University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":4500,
+    "avgClosingRank":7300 
+  },
+  { 
+    "collegeId":"RMLAU001",
+    "collegeName":"Dr. Ram Manohar Lohia Avadh University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":7300,
+    "avgClosingRank":10400 
+  },
+  { 
+    "collegeId":"RMLAU001",
+    "collegeName":"Dr. Ram Manohar Lohia Avadh University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":12400,
+    "avgClosingRank":17400 
+  },
+  { 
+    "collegeId":"RMLAU001",
+    "collegeName":"Dr. Ram Manohar Lohia Avadh University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":17400,
+    "avgClosingRank":23400 
+  },
+
+  { 
+    "collegeId":"VU001",
+    "collegeName":"Vikram University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":5100,
+    "avgClosingRank":8100 
+  },
+  { 
+    "collegeId":"VU001",
+    "collegeName":"Vikram University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":8100,
+    "avgClosingRank":11600 
+  },
+  { 
+    "collegeId":"VU001",
+    "collegeName":"Vikram University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":13600,
+    "avgClosingRank":18600 
+  },
+  { 
+    "collegeId":"VU001",
+    "collegeName":"Vikram University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":18600,
+    "avgClosingRank":24600 
+  },
+
+  { 
+    "collegeId":"MGKV001",
+    "collegeName":"Mahatma Gandhi Kashi Vidyapith",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":4700,
+    "avgClosingRank":7600 
+  },
+
+  { 
+    "collegeId":"MGKV001",
+    "collegeName":"Mahatma Gandhi Kashi Vidyapith",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":7600,
+    "avgClosingRank":10800 
+  },
+
+  { 
+    "collegeId":"MGKV001",
+    "collegeName":"Mahatma Gandhi Kashi Vidyapith",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":12800,
+    "avgClosingRank":17800 
+  },
+
+  { 
+    "collegeId":"MGKV001",
+    "collegeName":"Mahatma Gandhi Kashi Vidyapith",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":17800,
+    "avgClosingRank":23800 
+  },
+
+  { 
+    "collegeId":"SPU001",
+    "collegeName":"Sardar Patel University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":3900,
+    "avgClosingRank":6600 
+  },
+
+
+  { 
+    "collegeId":"SPU001",
+    "collegeName":"Sardar Patel University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":6600,
+    "avgClosingRank":9700 
+  },
+  { 
+    "collegeId":"SPU001",
+    "collegeName":"Sardar Patel University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":11600,
+    "avgClosingRank":16600 
+  },
+  { 
+    "collegeId":"SPU001",
+    "collegeName":"Sardar Patel University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":16600,
+    "avgClosingRank":22100 
+  },
+
+  { 
+    "collegeId":"HNBGU001",
+    "collegeName":"Hemvati Nandan Bahuguna Garhwal University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":3600,
+    "avgClosingRank":6200 
+  },
+  { 
+    "collegeId":"HNBGU001",
+    "collegeName":"Hemvati Nandan Bahuguna Garhwal University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":6200,
+    "avgClosingRank":9300 
+  },
+  { 
+    "collegeId":"HNBGU001",
+    "collegeName":"Hemvati Nandan Bahuguna Garhwal University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":11200,
+    "avgClosingRank":16200 
+  },
+  { 
+    "collegeId":"HNBGU001",
+    "collegeName":"Hemvati Nandan Bahuguna Garhwal University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":16200,
+    "avgClosingRank":21600 
+  },
+
+  { 
+    "collegeId":"DAVV001",
+    "collegeName":"Devi Ahilya Vishwavidyalaya",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":1900,
+    "avgClosingRank":3800 
+  },
+  { 
+    "collegeId":"DAVV001",
+    "collegeName":"Devi Ahilya Vishwavidyalaya",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":3800,
+    "avgClosingRank":6500 
+  },
+  { 
+    "collegeId":"DAVV001",
+    "collegeName":"Devi Ahilya Vishwavidyalaya",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":8500,
+    "avgClosingRank":12500 
+  },
+  { 
+    "collegeId":"DAVV001",
+    "collegeName":"Devi Ahilya Vishwavidyalaya",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":12500,
+    "avgClosingRank":18000 
+  },
+
+
+
+  
+  { 
+    "collegeId":"GU001",
+    "collegeName":"Galgotias University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":8000,
+    "avgClosingRank":13500 
+  },
+
+  { 
+    "collegeId":"GU001",
+    "collegeName":"Galgotias University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":13500,
+    "avgClosingRank":19500 
+  },
+  { 
+    "collegeId":"GU001",
+    "collegeName":"Galgotias University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":21500,
+    "avgClosingRank":29500 
+  },
+  { 
+    "collegeId":"GU001",
+    "collegeName":"Galgotias University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":29500,
+    "avgClosingRank":37500 
+  },
+
+  { 
+    "collegeId":"BU001",
+    "collegeName":"Bennett University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":9000,
+    "avgClosingRank":14500 
+  },
+  { 
+    "collegeId":"BU001",
+    "collegeName":"Bennett University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":14500,
+    "avgClosingRank":21500 
+  },
+  { 
+    "collegeId":"BU001",
+    "collegeName":"Bennett University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":23500,
+    "avgClosingRank":31500 
+  },
+  { 
+    "collegeId":"BU001",
+    "collegeName":"Bennett University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":31500,
+    "avgClosingRank":39500 
+  },
+
+  { 
+    "collegeId":"SU001",
+    "collegeName":"Sharda University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":9500,
+    "avgClosingRank":15500 
+  },
+  { 
+    "collegeId":"SU001",
+    "collegeName":"Sharda University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":15500,
+    "avgClosingRank":22500 
+  },
+  { 
+    "collegeId":"SU001",
+    "collegeName":"Sharda University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":24500,
+    "avgClosingRank":32500 
+  },
+  { 
+    "collegeId":"SU001",
+    "collegeName":"Sharda University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":32500,
+    "avgClosingRank":41500 
+  },
+
+  { 
+    "collegeId":"CU001",
+    "collegeName":"Chandigarh University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":2400,
+    "avgClosingRank":5000 
+  },
+
+  { 
+    "collegeId":"CU001",
+    "collegeName":"Chandigarh University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":5000,
+    "avgClosingRank":8500 
+  },
+  { 
+    "collegeId":"CU001",
+    "collegeName":"Chandigarh University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":10500,
+    "avgClosingRank":15500 
+  },
+  { 
+    "collegeId":"CU001",
+    "collegeName":"Chandigarh University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":15500,
+    "avgClosingRank":21500 
+  },
+
+  { 
+    "collegeId":"LPU001",
+    "collegeName":"Lovely Professional University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":4000,
+    "avgClosingRank":7600 
+  },
+  { 
+    "collegeId":"LPU001",
+    "collegeName":"Lovely Professional University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":7600,
+    "avgClosingRank":12000 
+  },
+  { 
+    "collegeId":"LPU001",
+    "collegeName":"Lovely Professional University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":14500,
+    "avgClosingRank":20500 
+  },
+  { 
+    "collegeId":"LPU001",
+    "collegeName":"Lovely Professional University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":20500,
+    "avgClosingRank":27500 
+  },
+
+  { 
+    "collegeId":"AMITY001",
+    "collegeName":"Amity University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":8500,
+    "avgClosingRank":14000 
+  },
+  { 
+    "collegeId":"AMITY001",
+    "collegeName":"Amity University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":14000,
+    "avgClosingRank":20500 
+  },
+  { 
+    "collegeId":"UPES001",
+    "collegeName":"UPES",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":15500,
+    "avgClosingRank":22000 
+  },
+  { 
+    "collegeId":"UPES001",
+    "collegeName":"UPES",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":22000,
+    "avgClosingRank":29000 
+  },
+
+  { 
+    "collegeId":"SRM001",
+    "collegeName":"SRM Institute of Science and Technology",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":3300,
+    "avgClosingRank":6700 
+  },
+  { 
+    "collegeId":"SRM001",
+    "collegeName":"SRM Institute of Science and Technology",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":6700,
+    "avgClosingRank":10500 
+  },
+  { 
+    "collegeId":"SRM001",
+    "collegeName":"SRM Institute of Science and Technology",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":13000,
+    "avgClosingRank":18500 
+  },
+  { 
+    "collegeId":"SRM001",
+    "collegeName":"SRM Institute of Science and Technology",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":18500,
+    "avgClosingRank":25000 
+  },
+
+  { 
+    "collegeId":"JAIN001",
+    "collegeName":"Jain University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":5700,
+    "avgClosingRank":9700 
+  },
+  { 
+    "collegeId":"JAIN001",
+    "collegeName":"Jain University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":9700,
+    "avgClosingRank":14500 
+  },
+
+  { 
+    "collegeId":"JAIN001",
+    "collegeName":"Jain University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":17000,
+    "avgClosingRank":23500 
+  },
+
+  { 
+    "collegeId":"JAIN001",
+    "collegeName":"Jain University",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":23500,
+    "avgClosingRank":31000 
+  },
+
+  { 
+    "collegeId":"MUJ001",
+    "collegeName":"Manipal University Jaipur",
+    "exam":"CUET-PG MCA 2025",
+    "category":"General",
+    "safeRank":4300,
+    "avgClosingRank":7900 
+  },
+
+  { 
+    "collegeId":"MUJ001",
+    "collegeName":"Manipal University Jaipur",
+    "exam":"CUET-PG MCA 2025",
+    "category":"OBC",
+    "safeRank":7900,
+    "avgClosingRank":12300 
+  },
+
+  { 
+    "collegeId":"MUJ001",
+    "collegeName":"Manipal University Jaipur",
+    "exam":"CUET-PG MCA 2025",
+    "category":"SC",
+    "safeRank":14700,
+    "avgClosingRank":21000 
+  },
+
+  { 
+    "collegeId":"MUJ001",
+    "collegeName":"Manipal University Jaipur",
+    "exam":"CUET-PG MCA 2025",
+    "category":"ST",
+    "safeRank":21000,
+    "avgClosingRank":28000
+  }
+
+]
+  

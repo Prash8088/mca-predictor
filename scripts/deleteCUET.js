@@ -16,10 +16,10 @@ async function deleteCUETDocs() {
 
   try {
 
-    // 🔥 GET ONLY CUET DOCS
+    //GET ONLY CUET-PG DOCS
     const snapshot = await db
       .collection("college_cutoffs")
-      .where("exam", "==", "MAH-MCA-CET")
+      .where("exam", "==", "CUET-PG")
       .get();
 
     console.log(
@@ -27,7 +27,7 @@ async function deleteCUETDocs() {
       snapshot.size
     );
 
-    // 🔥 DELETE ALL
+    // DELETE IN BATCH
     const batch = db.batch();
 
     snapshot.docs.forEach((doc) => {
@@ -37,13 +37,13 @@ async function deleteCUETDocs() {
     await batch.commit();
 
     console.log(
-      "✅ ALL CUET DOCS DELETED"
+      "ALL CUET-PG DATA DELETED"
     );
 
   } catch (error) {
 
     console.error(
-      "❌ ERROR:",
+      "ERROR:",
       error
     );
   }

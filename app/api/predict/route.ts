@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 import { db } from "@/lib/firebaseAdmin";
 import { calculateExpectedRank } from "@/utils/rankCalculator";
 
-// 🔥 GROUP + AVERAGE SAME COLLEGES
+// GROUP + AVERAGE SAME COLLEGES
 function groupAndAverage(data: any[]) {
 
   const grouped: any = {};
@@ -13,7 +13,7 @@ function groupAndAverage(data: any[]) {
       ?.trim()
       ?.toLowerCase();
 
-    // ✅ SKIP BAD DATA
+    // SKIP BAD DATA
     if (!key) return;
 
     if (!grouped[key]) {
@@ -57,7 +57,7 @@ function groupAndAverage(data: any[]) {
   );
 }
 
-// 🔥 ADD MATCH SCORE
+// ADD MATCH SCORE
 function addScore(
   data: any[],
   expectedRank: number
@@ -88,13 +88,13 @@ function addScore(
 
 export async function POST(req: Request) {
 
-  console.log("🚀 API STARTED");
+  console.log("API STARTED");
 
   try {
 
     const body = await req.json();
 
-    console.log("📦 BODY:", body);
+    console.log("BODY:", body);
 
     const {
       exam,
@@ -103,7 +103,7 @@ export async function POST(req: Request) {
       difficulty,
     } = body;
 
-    // 🔥 CALCULATE EXPECTED RANK
+    // CALCULATE EXPECTED RANK
     const expectedRank =
       calculateExpectedRank(
         exam,
@@ -112,7 +112,7 @@ export async function POST(req: Request) {
       );
 
     console.log(
-      "🎯 EXPECTED RANK:",
+      "EXPECTED RANK:",
       expectedRank
     );
 
@@ -121,10 +121,10 @@ export async function POST(req: Request) {
     let low: any[] = [];
 
     console.log(
-      "🔥 BEFORE FIREBASE"
+      "BEFORE FIREBASE"
     );
 
-    // 🔥 FIREBASE QUERY
+    //FIREBASE QUERY
     const snapshot = await db
       .collection("college_cutoffs")
       .where("exam", "==", exam)
@@ -132,11 +132,11 @@ export async function POST(req: Request) {
       .get();
 
     console.log(
-      "✅ FIREBASE SUCCESS"
+      "FIREBASE SUCCESS"
     );
 
     console.log(
-      "📊 DOC COUNT:",
+      "DOC COUNT:",
       snapshot.size
     );
 
@@ -148,7 +148,7 @@ export async function POST(req: Request) {
         data.avgClosingRank || 0
       );
 
-      // 🔥 EXCLUDE COLLEGE
+      //EXCLUDE COLLEGE
       const excludeCollege =
         data.collegeName
           ?.toLowerCase()
@@ -158,18 +158,18 @@ export async function POST(req: Request) {
 
       if (!excludeCollege) {
 
-        // 🔥 DEFAULT RANGES
+        // DEFAULT RANGES
         let highRange = 300;
         let mediumRange = 100;
 
-        // 🔥 NIMCET
+        //NIMCET
         if (exam === "NIMCET") {
 
           highRange = 300;
           mediumRange = 100;
         }
 
-        // 🔥 MAH-MCA-CET
+        // MAH-MCA-CET
         else if (
           exam === "MAH-MCA-CET"
         ) {
@@ -178,61 +178,69 @@ export async function POST(req: Request) {
           mediumRange = 200;
         }
 
-        // 🔥 CUET-PG
+        // CUET-PG
         else if (
           exam === "CUET-PG"
         ) {
 
-          highRange = 400;
-          mediumRange = 150;
+          highRange = 6000;
+          mediumRange = 2500;
         }
 
-        // 🔥 SAME LOGIC FOR ALL EXAMS
+        // SAME LOGIC FOR ALL EXAMS
         const difference =
           closingRank -
           expectedRank;
 
-        // 🔥 HIGH CHANCE
+        // HIGH CHANCE
         if (
           difference >= highRange
         ) {
 
           high.push(data);
 
-        // 🔥 MEDIUM CHANCE
+        // MEDIUM CHANCE
         } else if (
           difference >= mediumRange
         ) {
 
           medium.push(data);
 
-        // 🔥 LOW CHANCE
-        } else if (
+        
+        //LOW CHANCE
+} else if (
 
-          (
-            exam === "MAH-MCA-CET" &&
-            difference >= -1500
-          )
+  (
+    exam === "MAH-MCA-CET" &&
+    difference >= -1500
+  )
 
-          ||
+  ||
 
-          (
-            exam !== "MAH-MCA-CET" &&
-            difference >= 0
-          )
+  (
+    exam === "CUET-PG" &&
+    difference >= -4000
+  )
 
-        ) {
+  ||
 
-          low.push(data);
-        }
+  (
+    exam === "NIMCET" &&
+    difference >= 0
+  )
+
+) {
+
+  low.push(data);
+}
       }
     });
 
     console.log(
-      "✅ FILTERING DONE"
+      "FILTERING DONE"
     );
 
-    // 🔥 GROUP + AVERAGE
+    //GROUP + AVERAGE
     const finalHigh =
       groupAndAverage(high);
 
@@ -243,10 +251,10 @@ export async function POST(req: Request) {
       groupAndAverage(low);
 
     console.log(
-      "✅ GROUPING DONE"
+      "GROUPING DONE"
     );
 
-    // 🔥 ADD SCORE
+    // ADD SCORE
     const scoredHigh =
       addScore(
         finalHigh,
@@ -265,7 +273,7 @@ export async function POST(req: Request) {
         expectedRank
       );
 
-    // 🔥 SORT BEST FIRST
+    //BEST MATCH
     scoredHigh.sort(
       (a, b) =>
         b.score - a.score
@@ -281,7 +289,7 @@ export async function POST(req: Request) {
         b.score - a.score
     );
 
-    // 🔥 BEST MATCH
+    //BEST MATCH
     const bestCollege =
       [
         ...scoredHigh,
@@ -291,7 +299,7 @@ export async function POST(req: Request) {
           b.score - a.score
       )[0] || null;
 
-    // 🔥 EMPTY MESSAGES
+    //EMPTY MESSAGES
     let highMessage = "";
     let mediumMessage = "";
     let lowMessage = "";
@@ -315,7 +323,7 @@ export async function POST(req: Request) {
     }
 
     console.log(
-      "✅ RESPONSE READY"
+      "RESPONSE READY"
     );
 
     return NextResponse.json({
@@ -336,7 +344,7 @@ export async function POST(req: Request) {
   } catch (error) {
 
     console.error(
-      "❌ ERROR =>",
+      "ERROR =>",
       error
     );
 
